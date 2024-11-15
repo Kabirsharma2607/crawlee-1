@@ -1,0 +1,3553 @@
+{
+  "div": [
+    {
+      "text": "Skip to main content\n\nProducts\nSolutions\nCommunity\nResources\nPricing\nContact sales\nLog in\nGet started for free\nThink bigger. Build faster.\n\nFigma helps design and development teams build great products, together.\n\nGet started for free\nDesign\nBuild\nJam\nPresent\n\nDesign and refine products with your team, in one shared design file.\n\nExplore Figma Design\n\nNearly everything that designers and developers need is available in Figma.\n\nDiana Mounter\nHead of Design\n\nRedesign how you design. \n\nExplore your ideas freely and iterate quickly.\n\nGenerate simple UI with AI\n\nInstantly create mockups to explore a bigger option space.\n\nLearn more\nDesign consistently with Auto Layout\nScale your edits instantly\nMake prototypes with AI\nEmbed prototypes in your presentations\nBring design and dev together. \n\nEasily translate designs into code with a workflow built for developers.\n\n1/4\n\nDesign systems that scale. \n\nStreamline the product development process with a design system that’s aligned across design and code.\n\nLearn about design systems\nKeep design and code connected. \n\nBring your component code into Dev Mode so developers get the right code, every time.\n\nLearn about Dev Mode\nFocus on the details in Focus View. \n\nSelect and inspect a specific design in Dev Mode, then dig into the details in Focus View so you know exactly what to build.\n\nTrack progress with design statuses. \n\nStay informed with clear design status updates on what’s changed, completed, or ready to build—all in Dev Mode.\n\nBuild better products, together. \n\nEverything your team needs to brainstorm, design, and build.\n\nCreate one source of truth. \n\nEveryone can collaborate seamlessly in one shared file. Designers, developers, copywriters—even external contractors and clients.\n\nTalk. Chat. Comment. \n\nCommunicate via audio or chat to connect quickly within your file. Gather and keep track of feedback with comments.\n\nEvery discipline has a centralized location to view, understand, and contribute to the work.\n\nLevon Sharrow\nDirector of Experience Design\n\nGet started for free\nLearn how to use Figma\nFigma Design: Beginner tutorial\nIntro to design systems\nGuide to FigJam\nPRODUCT\nFigma Design\nFigJam\nDev Mode\nFigma Slides\nRelease notes\nWhat’s new\nDownloads\nPLANS\nPricing\nEnterprise\nOrganization\nProfessional\nUSE CASES\nUI design\nUX design\nWireframing\nDiagramming\nPrototyping\nBrainstorming\nPresentation maker\nOnline whiteboard\nAgile\nStrategic planning\nMind mapping\nRESOURCES\nBlog\nBest practices\nColor wheel\nColors\nColor picker\nTemplates\nDevelopers\nIntegrations\nAffiliate program\nResource library\nReports and insights\nSupport\nStatus\nLegal and privacy\nModern slavery statement\nClimate disclosure statement\nCOMPARE\nSketch\nAdobe XD\nFramer\nMiro\nCOMPANY\nAbout us\nEvents\nCustomers\nCareers\nEnglish",
+      "id": "app",
+      "classList": [
+        "css-14r34si"
+      ],
+      "xpath": "//*[@id=\"app\"]"
+    },
+    {
+      "text": "Products\nSolutions\nCommunity\nResources\nPricing\nContact sales\nLog in\nGet started for free",
+      "id": null,
+      "classList": [
+        "css-e6w4vp"
+      ],
+      "xpath": "//*[@id=\"app\"]/div[1]"
+    },
+    {
+      "text": "Products\nSolutions\nCommunity\nResources\nPricing\nContact sales\nLog in\nGet started for free",
+      "id": null,
+      "classList": [
+        "css-1ij4cec"
+      ],
+      "xpath": "//*[@id=\"app\"]/div[1]/header[1]/div[1]"
+    },
+    {
+      "text": "Products\nSolutions\nCommunity\nResources\nPricing",
+      "id": null,
+      "classList": [
+        "css-1pedjod"
+      ],
+      "xpath": "//*[@id=\"app\"]/div[1]/header[1]/div[1]/div[1]"
+    },
+    {
+      "text": "Products",
+      "id": null,
+      "classList": [
+        "css-1k2ji4o"
+      ],
+      "xpath": "//*[@id=\"app\"]/div[1]/header[1]/div[1]/div[1]/nav[1]/ul[1]/li[1]/div[1]"
+    },
+    {
+      "text": "Solutions",
+      "id": null,
+      "classList": [
+        "css-1k2ji4o"
+      ],
+      "xpath": "//*[@id=\"app\"]/div[1]/header[1]/div[1]/div[1]/nav[1]/ul[1]/li[2]/div[1]"
+    },
+    {
+      "text": "Community",
+      "id": null,
+      "classList": [
+        "css-1k2ji4o"
+      ],
+      "xpath": "//*[@id=\"app\"]/div[1]/header[1]/div[1]/div[1]/nav[1]/ul[1]/li[3]/div[1]"
+    },
+    {
+      "text": "Resources",
+      "id": null,
+      "classList": [
+        "css-1k2ji4o"
+      ],
+      "xpath": "//*[@id=\"app\"]/div[1]/header[1]/div[1]/div[1]/nav[1]/ul[1]/li[4]/div[1]"
+    },
+    {
+      "text": "Figma DesignDesign and prototype in one placeFigJamCollaborate with a digital whiteboardDev ModeTranslate designs into codeFigma SlidesBetaCo-create presentationsAINewExplore all Figma AI featuresDownloadsGet the desktop, mobile, and font installer appsWhat’s newSee the latest features and releasesUse casesDesign systemsPrototypingUX designWeb designWireframingOnline whiteboardTeam meetingsStrategic planningBrainstormingDiagrammingProduct developmentWeb developmentDesign handoffAgileRolesDesignEngineeringProduct managersOrganizationsEnterpriseEducationCreator fundBuild and sell what you loveUser groupsJoin a local Friends of Figma groupEventsLearn best practices at virtual eventsCustomer storiesRead about leading product teamsShortcut: The Figma blogStories about how products take shape—and shape our worldGet startedPluginsUI kitsIconsWidgetsTemplatesDeveloper docsPartnersSee allLearnBest practicesReports & insightsResource libraryDemosWebinarsHelp center",
+      "id": null,
+      "classList": [
+        "css-1owwmd3"
+      ],
+      "xpath": "//*[@id=\"app\"]/div[1]/div[1]"
+    },
+    {
+      "text": "Figma DesignDesign and prototype in one placeFigJamCollaborate with a digital whiteboardDev ModeTranslate designs into codeFigma SlidesBetaCo-create presentationsAINewExplore all Figma AI featuresDownloadsGet the desktop, mobile, and font installer appsWhat’s newSee the latest features and releasesUse casesDesign systemsPrototypingUX designWeb designWireframingOnline whiteboardTeam meetingsStrategic planningBrainstormingDiagrammingProduct developmentWeb developmentDesign handoffAgileRolesDesignEngineeringProduct managersOrganizationsEnterpriseEducationCreator fundBuild and sell what you loveUser groupsJoin a local Friends of Figma groupEventsLearn best practices at virtual eventsCustomer storiesRead about leading product teamsShortcut: The Figma blogStories about how products take shape—and shape our worldGet startedPluginsUI kitsIconsWidgetsTemplatesDeveloper docsPartnersSee allLearnBest practicesReports & insightsResource libraryDemosWebinarsHelp center",
+      "id": null,
+      "classList": [
+        "css-um0g2k"
+      ],
+      "xpath": "//*[@id=\"app\"]/div[1]/div[1]/div[1]"
+    },
+    {
+      "text": "Figma DesignDesign and prototype in one placeFigJamCollaborate with a digital whiteboardDev ModeTranslate designs into codeFigma SlidesBetaCo-create presentationsAINewExplore all Figma AI featuresDownloadsGet the desktop, mobile, and font installer appsWhat’s newSee the latest features and releasesUse casesDesign systemsPrototypingUX designWeb designWireframingOnline whiteboardTeam meetingsStrategic planningBrainstormingDiagrammingProduct developmentWeb developmentDesign handoffAgileRolesDesignEngineeringProduct managersOrganizationsEnterpriseEducationCreator fundBuild and sell what you loveUser groupsJoin a local Friends of Figma groupEventsLearn best practices at virtual eventsCustomer storiesRead about leading product teamsShortcut: The Figma blogStories about how products take shape—and shape our worldGet startedPluginsUI kitsIconsWidgetsTemplatesDeveloper docsPartnersSee allLearnBest practicesReports & insightsResource libraryDemosWebinarsHelp center",
+      "id": null,
+      "classList": [],
+      "xpath": "//*[@id=\"app\"]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "text": "Figma DesignDesign and prototype in one placeFigJamCollaborate with a digital whiteboardDev ModeTranslate designs into codeFigma SlidesBetaCo-create presentationsAINewExplore all Figma AI featuresDownloadsGet the desktop, mobile, and font installer appsWhat’s newSee the latest features and releasesUse casesDesign systemsPrototypingUX designWeb designWireframingOnline whiteboardTeam meetingsStrategic planningBrainstormingDiagrammingProduct developmentWeb developmentDesign handoffAgileRolesDesignEngineeringProduct managersOrganizationsEnterpriseEducationCreator fundBuild and sell what you loveUser groupsJoin a local Friends of Figma groupEventsLearn best practices at virtual eventsCustomer storiesRead about leading product teamsShortcut: The Figma blogStories about how products take shape—and shape our worldGet startedPluginsUI kitsIconsWidgetsTemplatesDeveloper docsPartnersSee allLearnBest practicesReports & insightsResource libraryDemosWebinarsHelp center",
+      "id": null,
+      "classList": [
+        "css-2qv4k"
+      ],
+      "xpath": "//*[@id=\"app\"]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "text": "Figma DesignDesign and prototype in one placeFigJamCollaborate with a digital whiteboardDev ModeTranslate designs into codeFigma SlidesBetaCo-create presentationsAINewExplore all Figma AI featuresDownloadsGet the desktop, mobile, and font installer appsWhat’s newSee the latest features and releases",
+      "id": "nav-dropdown-d07e0c782331",
+      "classList": [
+        "css-1hyfx7x"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-d07e0c782331\"]"
+    },
+    {
+      "text": "Figma DesignDesign and prototype in one placeFigJamCollaborate with a digital whiteboardDev ModeTranslate designs into codeFigma SlidesBetaCo-create presentationsAINewExplore all Figma AI featuresDownloadsGet the desktop, mobile, and font installer appsWhat’s newSee the latest features and releases",
+      "id": null,
+      "classList": [
+        "css-17y282k"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-d07e0c782331\"]/div[1]"
+    },
+    {
+      "text": "Figma DesignDesign and prototype in one place",
+      "id": null,
+      "classList": [
+        "css-acwcvw"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-d07e0c782331\"]/div[1]/ul[1]/li[1]/a[1]/div[1]"
+    },
+    {
+      "text": "FigJamCollaborate with a digital whiteboard",
+      "id": null,
+      "classList": [
+        "css-acwcvw"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-d07e0c782331\"]/div[1]/ul[1]/li[2]/a[1]/div[1]"
+    },
+    {
+      "text": "Dev ModeTranslate designs into code",
+      "id": null,
+      "classList": [
+        "css-acwcvw"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-d07e0c782331\"]/div[1]/ul[1]/li[3]/a[1]/div[1]"
+    },
+    {
+      "text": "Figma SlidesBetaCo-create presentations",
+      "id": null,
+      "classList": [
+        "css-acwcvw"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-d07e0c782331\"]/div[1]/ul[1]/li[4]/a[1]/div[1]"
+    },
+    {
+      "text": "Beta",
+      "id": null,
+      "classList": [
+        "css-1c7xbhq"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-d07e0c782331\"]/div[1]/ul[1]/li[4]/a[1]/div[1]/div[1]"
+    },
+    {
+      "text": "AINewExplore all Figma AI features",
+      "id": null,
+      "classList": [
+        "css-0"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-d07e0c782331\"]/div[1]/ul[1]/li[5]/a[1]/div[1]"
+    },
+    {
+      "text": "New",
+      "id": null,
+      "classList": [
+        "css-1c7xbhq"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-d07e0c782331\"]/div[1]/ul[1]/li[5]/a[1]/div[1]/div[1]"
+    },
+    {
+      "text": "DownloadsGet the desktop, mobile, and font installer apps",
+      "id": null,
+      "classList": [
+        "css-0"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-d07e0c782331\"]/div[1]/ul[1]/li[6]/a[1]/div[1]"
+    },
+    {
+      "text": "What’s newSee the latest features and releases",
+      "id": null,
+      "classList": [
+        "css-0"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-d07e0c782331\"]/div[1]/ul[1]/li[7]/a[1]/div[1]"
+    },
+    {
+      "text": "Use casesDesign systemsPrototypingUX designWeb designWireframingOnline whiteboardTeam meetingsStrategic planningBrainstormingDiagrammingProduct developmentWeb developmentDesign handoffAgileRolesDesignEngineeringProduct managersOrganizationsEnterpriseEducation",
+      "id": "nav-dropdown-0214639c41a6",
+      "classList": [
+        "css-1hyfx7x"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-0214639c41a6\"]"
+    },
+    {
+      "text": "Use casesDesign systemsPrototypingUX designWeb designWireframingOnline whiteboardTeam meetingsStrategic planningBrainstormingDiagrammingProduct developmentWeb developmentDesign handoffAgileRolesDesignEngineeringProduct managersOrganizationsEnterpriseEducation",
+      "id": null,
+      "classList": [
+        "css-17y282k"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-0214639c41a6\"]/div[1]"
+    },
+    {
+      "text": "Use casesDesign systemsPrototypingUX designWeb designWireframingOnline whiteboardTeam meetingsStrategic planningBrainstormingDiagrammingProduct developmentWeb developmentDesign handoffAgile",
+      "id": null,
+      "classList": [
+        "css-kzie2b"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-0214639c41a6\"]/div[1]/div[1]"
+    },
+    {
+      "text": "Use casesDesign systemsPrototypingUX designWeb designWireframingOnline whiteboardTeam meetingsStrategic planningBrainstormingDiagrammingProduct developmentWeb developmentDesign handoffAgile",
+      "id": null,
+      "classList": [],
+      "xpath": "//*[@id=\"nav-dropdown-0214639c41a6\"]/div[1]/div[1]/div[1]"
+    },
+    {
+      "text": "Design systemsPrototypingUX designWeb designWireframingOnline whiteboardTeam meetings",
+      "id": null,
+      "classList": [
+        "css-l6lbt9"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-0214639c41a6\"]/div[1]/div[1]/div[1]/ul[1]/div[1]"
+    },
+    {
+      "text": "Strategic planningBrainstormingDiagrammingProduct developmentWeb developmentDesign handoffAgile",
+      "id": null,
+      "classList": [
+        "css-l6lbt9"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-0214639c41a6\"]/div[1]/div[1]/div[1]/ul[1]/div[2]"
+    },
+    {
+      "text": "RolesDesignEngineeringProduct managers",
+      "id": null,
+      "classList": [
+        "css-ftug5e"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-0214639c41a6\"]/div[1]/div[2]"
+    },
+    {
+      "text": "RolesDesignEngineeringProduct managers",
+      "id": null,
+      "classList": [],
+      "xpath": "//*[@id=\"nav-dropdown-0214639c41a6\"]/div[1]/div[2]/div[1]"
+    },
+    {
+      "text": "DesignEngineeringProduct managers",
+      "id": null,
+      "classList": [
+        "css-l6lbt9"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-0214639c41a6\"]/div[1]/div[2]/div[1]/ul[1]/div[1]"
+    },
+    {
+      "text": "OrganizationsEnterpriseEducation",
+      "id": null,
+      "classList": [
+        "css-ftug5e"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-0214639c41a6\"]/div[1]/div[3]"
+    },
+    {
+      "text": "OrganizationsEnterpriseEducation",
+      "id": null,
+      "classList": [],
+      "xpath": "//*[@id=\"nav-dropdown-0214639c41a6\"]/div[1]/div[3]/div[1]"
+    },
+    {
+      "text": "EnterpriseEducation",
+      "id": null,
+      "classList": [
+        "css-l6lbt9"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-0214639c41a6\"]/div[1]/div[3]/div[1]/ul[1]/div[1]"
+    },
+    {
+      "text": "Creator fundBuild and sell what you loveUser groupsJoin a local Friends of Figma groupEventsLearn best practices at virtual eventsCustomer storiesRead about leading product teams",
+      "id": "nav-dropdown-30f59e9839de",
+      "classList": [
+        "css-1hyfx7x"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-30f59e9839de\"]"
+    },
+    {
+      "text": "Creator fundBuild and sell what you loveUser groupsJoin a local Friends of Figma groupEventsLearn best practices at virtual eventsCustomer storiesRead about leading product teams",
+      "id": null,
+      "classList": [
+        "css-17y282k"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-30f59e9839de\"]/div[1]"
+    },
+    {
+      "text": "Creator fundBuild and sell what you love",
+      "id": null,
+      "classList": [
+        "css-0"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-30f59e9839de\"]/div[1]/ul[1]/li[1]/a[1]/div[1]"
+    },
+    {
+      "text": "User groupsJoin a local Friends of Figma group",
+      "id": null,
+      "classList": [
+        "css-0"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-30f59e9839de\"]/div[1]/ul[2]/li[1]/a[1]/div[1]"
+    },
+    {
+      "text": "EventsLearn best practices at virtual events",
+      "id": null,
+      "classList": [
+        "css-0"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-30f59e9839de\"]/div[1]/ul[3]/li[1]/a[1]/div[1]"
+    },
+    {
+      "text": "Customer storiesRead about leading product teams",
+      "id": null,
+      "classList": [
+        "css-0"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-30f59e9839de\"]/div[1]/ul[4]/li[1]/a[1]/div[1]"
+    },
+    {
+      "text": "Shortcut: The Figma blogStories about how products take shape—and shape our worldGet startedPluginsUI kitsIconsWidgetsTemplatesDeveloper docsPartnersSee allLearnBest practicesReports & insightsResource libraryDemosWebinarsHelp center",
+      "id": "nav-dropdown-35621d40dde8",
+      "classList": [
+        "css-1hyfx7x"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-35621d40dde8\"]"
+    },
+    {
+      "text": "Shortcut: The Figma blogStories about how products take shape—and shape our worldGet startedPluginsUI kitsIconsWidgetsTemplatesDeveloper docsPartnersSee allLearnBest practicesReports & insightsResource libraryDemosWebinarsHelp center",
+      "id": null,
+      "classList": [
+        "css-17y282k"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-35621d40dde8\"]/div[1]"
+    },
+    {
+      "text": "Shortcut: The Figma blogStories about how products take shape—and shape our world",
+      "id": null,
+      "classList": [
+        "css-acwcvw"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-35621d40dde8\"]/div[1]/ul[1]/li[1]/a[1]/div[1]"
+    },
+    {
+      "text": "Get startedPluginsUI kitsIconsWidgetsTemplatesDeveloper docsPartnersSee all",
+      "id": null,
+      "classList": [
+        "css-ftug5e"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-35621d40dde8\"]/div[1]/div[1]"
+    },
+    {
+      "text": "Get startedPluginsUI kitsIconsWidgetsTemplatesDeveloper docsPartnersSee all",
+      "id": null,
+      "classList": [],
+      "xpath": "//*[@id=\"nav-dropdown-35621d40dde8\"]/div[1]/div[1]/div[1]"
+    },
+    {
+      "text": "PluginsUI kitsIconsWidgetsTemplatesDeveloper docsPartnersSee all",
+      "id": null,
+      "classList": [
+        "css-l6lbt9"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-35621d40dde8\"]/div[1]/div[1]/div[1]/ul[1]/div[1]"
+    },
+    {
+      "text": "LearnBest practicesReports & insightsResource libraryDemosWebinarsHelp center",
+      "id": null,
+      "classList": [
+        "css-ftug5e"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-35621d40dde8\"]/div[1]/div[2]"
+    },
+    {
+      "text": "LearnBest practicesReports & insightsResource libraryDemosWebinarsHelp center",
+      "id": null,
+      "classList": [],
+      "xpath": "//*[@id=\"nav-dropdown-35621d40dde8\"]/div[1]/div[2]/div[1]"
+    },
+    {
+      "text": "Best practicesReports & insightsResource libraryDemosWebinarsHelp center",
+      "id": null,
+      "classList": [
+        "css-l6lbt9"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-35621d40dde8\"]/div[1]/div[2]/div[1]/ul[1]/div[1]"
+    },
+    {
+      "text": "Contact salesLog inGet startedGet started for freeProductsFigma DesignDesign and prototype in one placeFigJamCollaborate with a digital whiteboardDev ModeTranslate designs into codeFigma SlidesBetaAINewDownloadsWhat’s newSolutionsUse casesDesign systemsPrototypingUX designWeb designWireframingOnline whiteboardTeam meetingsStrategic planningBrainstormingDiagrammingProduct developmentWeb developmentDesign handoffAgileRolesDesignEngineeringProduct managersOrganizationsEnterpriseEducationCommunityCreator fundUser groupsEventsCustomer storiesResourcesGet startedPluginsUI kitsIconsWidgetsTemplatesDeveloper docsPartnersSee allLearnShortcut: the Figma blogBest practicesReports & insightsResource libraryDemosWebinarsHelp centerPricingContact salesGet startedLog in",
+      "id": null,
+      "classList": [
+        "css-2wxs5p"
+      ],
+      "xpath": "//*[@id=\"app\"]/div[2]"
+    },
+    {
+      "text": "Contact salesLog inGet startedGet started for freeProductsFigma DesignDesign and prototype in one placeFigJamCollaborate with a digital whiteboardDev ModeTranslate designs into codeFigma SlidesBetaAINewDownloadsWhat’s newSolutionsUse casesDesign systemsPrototypingUX designWeb designWireframingOnline whiteboardTeam meetingsStrategic planningBrainstormingDiagrammingProduct developmentWeb developmentDesign handoffAgileRolesDesignEngineeringProduct managersOrganizationsEnterpriseEducationCommunityCreator fundUser groupsEventsCustomer storiesResourcesGet startedPluginsUI kitsIconsWidgetsTemplatesDeveloper docsPartnersSee allLearnShortcut: the Figma blogBest practicesReports & insightsResource libraryDemosWebinarsHelp centerPricingContact salesGet startedLog in",
+      "id": null,
+      "classList": [
+        "css-1ktxfys"
+      ],
+      "xpath": "//*[@id=\"app\"]/div[2]/header[1]/div[1]"
+    },
+    {
+      "text": "Contact salesLog inGet startedGet started for freeProductsFigma DesignDesign and prototype in one placeFigJamCollaborate with a digital whiteboardDev ModeTranslate designs into codeFigma SlidesBetaAINewDownloadsWhat’s newSolutionsUse casesDesign systemsPrototypingUX designWeb designWireframingOnline whiteboardTeam meetingsStrategic planningBrainstormingDiagrammingProduct developmentWeb developmentDesign handoffAgileRolesDesignEngineeringProduct managersOrganizationsEnterpriseEducationCommunityCreator fundUser groupsEventsCustomer storiesResourcesGet startedPluginsUI kitsIconsWidgetsTemplatesDeveloper docsPartnersSee allLearnShortcut: the Figma blogBest practicesReports & insightsResource libraryDemosWebinarsHelp centerPricingContact salesGet startedLog in",
+      "id": null,
+      "classList": [
+        "css-70qvj9"
+      ],
+      "xpath": "//*[@id=\"app\"]/div[2]/header[1]/div[1]/div[1]"
+    },
+    {
+      "text": "ProductsFigma DesignDesign and prototype in one placeFigJamCollaborate with a digital whiteboardDev ModeTranslate designs into codeFigma SlidesBetaAINewDownloadsWhat’s newSolutionsUse casesDesign systemsPrototypingUX designWeb designWireframingOnline whiteboardTeam meetingsStrategic planningBrainstormingDiagrammingProduct developmentWeb developmentDesign handoffAgileRolesDesignEngineeringProduct managersOrganizationsEnterpriseEducationCommunityCreator fundUser groupsEventsCustomer storiesResourcesGet startedPluginsUI kitsIconsWidgetsTemplatesDeveloper docsPartnersSee allLearnShortcut: the Figma blogBest practicesReports & insightsResource libraryDemosWebinarsHelp centerPricingContact salesGet startedLog in",
+      "id": null,
+      "classList": [],
+      "xpath": "//*[@id=\"app\"]/div[2]/header[1]/div[1]/div[1]/nav[1]/div[1]"
+    },
+    {
+      "text": "ProductsFigma DesignDesign and prototype in one placeFigJamCollaborate with a digital whiteboardDev ModeTranslate designs into codeFigma SlidesBetaAINewDownloadsWhat’s newSolutionsUse casesDesign systemsPrototypingUX designWeb designWireframingOnline whiteboardTeam meetingsStrategic planningBrainstormingDiagrammingProduct developmentWeb developmentDesign handoffAgileRolesDesignEngineeringProduct managersOrganizationsEnterpriseEducationCommunityCreator fundUser groupsEventsCustomer storiesResourcesGet startedPluginsUI kitsIconsWidgetsTemplatesDeveloper docsPartnersSee allLearnShortcut: the Figma blogBest practicesReports & insightsResource libraryDemosWebinarsHelp centerPricingContact salesGet startedLog in",
+      "id": "mobile-navigation-menu",
+      "classList": [],
+      "xpath": "//*[@id=\"mobile-navigation-menu\"]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "css-1549uxp"
+      ],
+      "xpath": "//*[@id=\"mobile-navigation-menu\"]/div[1]"
+    },
+    {
+      "text": "ProductsFigma DesignDesign and prototype in one placeFigJamCollaborate with a digital whiteboardDev ModeTranslate designs into codeFigma SlidesBetaAINewDownloadsWhat’s newSolutionsUse casesDesign systemsPrototypingUX designWeb designWireframingOnline whiteboardTeam meetingsStrategic planningBrainstormingDiagrammingProduct developmentWeb developmentDesign handoffAgileRolesDesignEngineeringProduct managersOrganizationsEnterpriseEducationCommunityCreator fundUser groupsEventsCustomer storiesResourcesGet startedPluginsUI kitsIconsWidgetsTemplatesDeveloper docsPartnersSee allLearnShortcut: the Figma blogBest practicesReports & insightsResource libraryDemosWebinarsHelp centerPricingContact salesGet startedLog in",
+      "id": null,
+      "classList": [
+        "css-17o9o3b"
+      ],
+      "xpath": "//*[@id=\"mobile-navigation-menu\"]/div[2]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "css-19rob9j"
+      ],
+      "xpath": "//*[@id=\"mobile-navigation-menu\"]/div[2]/div[1]"
+    },
+    {
+      "text": "ProductsFigma DesignDesign and prototype in one placeFigJamCollaborate with a digital whiteboardDev ModeTranslate designs into codeFigma SlidesBetaAINewDownloadsWhat’s newSolutionsUse casesDesign systemsPrototypingUX designWeb designWireframingOnline whiteboardTeam meetingsStrategic planningBrainstormingDiagrammingProduct developmentWeb developmentDesign handoffAgileRolesDesignEngineeringProduct managersOrganizationsEnterpriseEducationCommunityCreator fundUser groupsEventsCustomer storiesResourcesGet startedPluginsUI kitsIconsWidgetsTemplatesDeveloper docsPartnersSee allLearnShortcut: the Figma blogBest practicesReports & insightsResource libraryDemosWebinarsHelp centerPricingContact sales",
+      "id": null,
+      "classList": [
+        "css-m1vgyn"
+      ],
+      "xpath": "//*[@id=\"mobile-navigation-menu\"]/div[2]/nav[1]/ul[1]/div[1]"
+    },
+    {
+      "text": "ProductsFigma DesignDesign and prototype in one placeFigJamCollaborate with a digital whiteboardDev ModeTranslate designs into codeFigma SlidesBetaAINewDownloadsWhat’s new",
+      "id": null,
+      "classList": [
+        "css-j7qwjs"
+      ],
+      "xpath": "//*[@id=\"mobile-navigation-menu\"]/div[2]/nav[1]/ul[1]/div[1]/li[1]/div[1]"
+    },
+    {
+      "text": "Figma DesignDesign and prototype in one placeFigJamCollaborate with a digital whiteboardDev ModeTranslate designs into codeFigma SlidesBetaAINewDownloadsWhat’s new",
+      "id": null,
+      "classList": [],
+      "xpath": "//*[@id=\"mobile-navigation-menu\"]/div[2]/nav[1]/ul[1]/div[1]/li[1]/div[1]/div[1]"
+    },
+    {
+      "text": "Figma DesignDesign and prototype in one placeFigJamCollaborate with a digital whiteboardDev ModeTranslate designs into codeFigma SlidesBetaAINewDownloadsWhat’s new",
+      "id": null,
+      "classList": [],
+      "xpath": "//*[@id=\"mobile-navigation-menu\"]/div[2]/nav[1]/ul[1]/div[1]/li[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "text": "Figma DesignDesign and prototype in one placeFigJamCollaborate with a digital whiteboardDev ModeTranslate designs into codeFigma SlidesBetaAINewDownloadsWhat’s new",
+      "id": "mobile-dropdown-d07e0c782331",
+      "classList": [
+        "css-5h1z5k"
+      ],
+      "xpath": "//*[@id=\"mobile-dropdown-d07e0c782331\"]"
+    },
+    {
+      "text": "Beta",
+      "id": null,
+      "classList": [
+        "css-1xw065v"
+      ],
+      "xpath": "//*[@id=\"mobile-dropdown-d07e0c782331\"]/ul[1]/li[4]/a[1]/div[1]"
+    },
+    {
+      "text": "New",
+      "id": null,
+      "classList": [
+        "css-1xw065v"
+      ],
+      "xpath": "//*[@id=\"mobile-dropdown-d07e0c782331\"]/ul[1]/li[5]/a[1]/div[1]"
+    },
+    {
+      "text": "SolutionsUse casesDesign systemsPrototypingUX designWeb designWireframingOnline whiteboardTeam meetingsStrategic planningBrainstormingDiagrammingProduct developmentWeb developmentDesign handoffAgileRolesDesignEngineeringProduct managersOrganizationsEnterpriseEducation",
+      "id": null,
+      "classList": [
+        "css-j7qwjs"
+      ],
+      "xpath": "//*[@id=\"mobile-navigation-menu\"]/div[2]/nav[1]/ul[1]/div[1]/li[2]/div[1]"
+    },
+    {
+      "text": "Use casesDesign systemsPrototypingUX designWeb designWireframingOnline whiteboardTeam meetingsStrategic planningBrainstormingDiagrammingProduct developmentWeb developmentDesign handoffAgileRolesDesignEngineeringProduct managersOrganizationsEnterpriseEducation",
+      "id": null,
+      "classList": [],
+      "xpath": "//*[@id=\"mobile-navigation-menu\"]/div[2]/nav[1]/ul[1]/div[1]/li[2]/div[1]/div[1]"
+    },
+    {
+      "text": "Use casesDesign systemsPrototypingUX designWeb designWireframingOnline whiteboardTeam meetingsStrategic planningBrainstormingDiagrammingProduct developmentWeb developmentDesign handoffAgileRolesDesignEngineeringProduct managersOrganizationsEnterpriseEducation",
+      "id": null,
+      "classList": [],
+      "xpath": "//*[@id=\"mobile-navigation-menu\"]/div[2]/nav[1]/ul[1]/div[1]/li[2]/div[1]/div[1]/div[1]"
+    },
+    {
+      "text": "Use casesDesign systemsPrototypingUX designWeb designWireframingOnline whiteboardTeam meetingsStrategic planningBrainstormingDiagrammingProduct developmentWeb developmentDesign handoffAgileRolesDesignEngineeringProduct managersOrganizationsEnterpriseEducation",
+      "id": "mobile-dropdown-0214639c41a6",
+      "classList": [
+        "css-5h1z5k"
+      ],
+      "xpath": "//*[@id=\"mobile-dropdown-0214639c41a6\"]"
+    },
+    {
+      "text": "CommunityCreator fundUser groupsEventsCustomer stories",
+      "id": null,
+      "classList": [
+        "css-j7qwjs"
+      ],
+      "xpath": "//*[@id=\"mobile-navigation-menu\"]/div[2]/nav[1]/ul[1]/div[1]/li[3]/div[1]"
+    },
+    {
+      "text": "Creator fundUser groupsEventsCustomer stories",
+      "id": null,
+      "classList": [],
+      "xpath": "//*[@id=\"mobile-navigation-menu\"]/div[2]/nav[1]/ul[1]/div[1]/li[3]/div[1]/div[1]"
+    },
+    {
+      "text": "Creator fundUser groupsEventsCustomer stories",
+      "id": null,
+      "classList": [],
+      "xpath": "//*[@id=\"mobile-navigation-menu\"]/div[2]/nav[1]/ul[1]/div[1]/li[3]/div[1]/div[1]/div[1]"
+    },
+    {
+      "text": "Creator fundUser groupsEventsCustomer stories",
+      "id": "mobile-dropdown-30f59e9839de",
+      "classList": [
+        "css-5h1z5k"
+      ],
+      "xpath": "//*[@id=\"mobile-dropdown-30f59e9839de\"]"
+    },
+    {
+      "text": "ResourcesGet startedPluginsUI kitsIconsWidgetsTemplatesDeveloper docsPartnersSee allLearnShortcut: the Figma blogBest practicesReports & insightsResource libraryDemosWebinarsHelp center",
+      "id": null,
+      "classList": [
+        "css-j7qwjs"
+      ],
+      "xpath": "//*[@id=\"mobile-navigation-menu\"]/div[2]/nav[1]/ul[1]/div[1]/li[4]/div[1]"
+    },
+    {
+      "text": "Get startedPluginsUI kitsIconsWidgetsTemplatesDeveloper docsPartnersSee allLearnShortcut: the Figma blogBest practicesReports & insightsResource libraryDemosWebinarsHelp center",
+      "id": null,
+      "classList": [],
+      "xpath": "//*[@id=\"mobile-navigation-menu\"]/div[2]/nav[1]/ul[1]/div[1]/li[4]/div[1]/div[1]"
+    },
+    {
+      "text": "Get startedPluginsUI kitsIconsWidgetsTemplatesDeveloper docsPartnersSee allLearnShortcut: the Figma blogBest practicesReports & insightsResource libraryDemosWebinarsHelp center",
+      "id": null,
+      "classList": [],
+      "xpath": "//*[@id=\"mobile-navigation-menu\"]/div[2]/nav[1]/ul[1]/div[1]/li[4]/div[1]/div[1]/div[1]"
+    },
+    {
+      "text": "Get startedPluginsUI kitsIconsWidgetsTemplatesDeveloper docsPartnersSee allLearnShortcut: the Figma blogBest practicesReports & insightsResource libraryDemosWebinarsHelp center",
+      "id": "mobile-dropdown-35621d40dde8",
+      "classList": [
+        "css-5h1z5k"
+      ],
+      "xpath": "//*[@id=\"mobile-dropdown-35621d40dde8\"]"
+    },
+    {
+      "text": "Get startedLog in",
+      "id": null,
+      "classList": [
+        "css-137e7p4"
+      ],
+      "xpath": "//*[@id=\"mobile-navigation-menu\"]/div[2]/nav[1]/ul[1]/div[2]"
+    },
+    {
+      "text": null,
+      "id": "google_one_tap",
+      "classList": [
+        "css-156n6ue"
+      ],
+      "xpath": "//*[@id=\"google_one_tap\"]"
+    },
+    {
+      "text": "Think bigger. Build faster.\n\nFigma helps design and development teams build great products, together.\n\nGet started for free\nDesign\nBuild\nJam\nPresent\n\nDesign and refine products with your team, in one shared design file.\n\nExplore Figma Design",
+      "id": null,
+      "classList": [
+        "css-2qv4k"
+      ],
+      "xpath": "//*[@id=\"main\"]/section[1]/div[1]"
+    },
+    {
+      "text": "Think bigger. Build faster.\n\nFigma helps design and development teams build great products, together.\n\nGet started for free",
+      "id": null,
+      "classList": [
+        "css-17tog9w"
+      ],
+      "xpath": "//*[@id=\"main\"]/section[1]/div[1]/div[1]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "css-13xakyz"
+      ],
+      "xpath": "//*[@id=\"main\"]/section[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "css-1ixoztu"
+      ],
+      "xpath": "//*[@id=\"main\"]/section[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "css-fd63v1"
+      ],
+      "xpath": "//*[@id=\"main\"]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "css-616f4"
+      ],
+      "xpath": "//*[@id=\"main\"]/section[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "css-1uwvvit"
+      ],
+      "xpath": "//*[@id=\"main\"]/section[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "inview",
+        "css-10klw3m"
+      ],
+      "xpath": "//*[@id=\"main\"]/section[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "css-1fatanh"
+      ],
+      "xpath": "//*[@id=\"main\"]/section[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]"
+    },
+    {
+      "text": "Think bigger. Build faster.\n\nFigma helps design and development teams build great products, together.\n\nGet started for free",
+      "id": null,
+      "classList": [
+        "css-mnacsz"
+      ],
+      "xpath": "//*[@id=\"main\"]/section[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "text": "Get started for free",
+      "id": null,
+      "classList": [
+        "css-gkby32"
+      ],
+      "xpath": "//*[@id=\"main\"]/section[1]/div[1]/div[1]/div[2]/div[1]"
+    },
+    {
+      "text": "Design\nBuild\nJam\nPresent\n\nDesign and refine products with your team, in one shared design file.\n\nExplore Figma Design",
+      "id": null,
+      "classList": [
+        "css-1kh526u"
+      ],
+      "xpath": "//*[@id=\"main\"]/section[1]/div[1]/div[2]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "css-1gqm4o9"
+      ],
+      "xpath": "//*[@id=\"main\"]/section[1]/div[1]/div[2]/div[1]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "inview",
+        "css-10klw3m"
+      ],
+      "xpath": "//*[@id=\"main\"]/section[1]/div[1]/div[2]/div[1]/div[1]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "css-uwwqev"
+      ],
+      "xpath": "//*[@id=\"main\"]/section[1]/div[1]/div[2]/div[1]/div[1]/div[1]"
+    },
+    {
+      "text": "Design\nBuild\nJam\nPresent\n\nDesign and refine products with your team, in one shared design file.\n\nExplore Figma Design",
+      "id": null,
+      "classList": [
+        "css-12jvj86"
+      ],
+      "xpath": "//*[@id=\"main\"]/section[1]/div[1]/div[2]/div[2]"
+    },
+    {
+      "text": "Design\nBuild\nJam\nPresent",
+      "id": null,
+      "classList": [
+        "css-1vaan3t"
+      ],
+      "xpath": "//*[@id=\"main\"]/section[1]/div[1]/div[2]/div[2]/div[1]"
+    },
+    {
+      "text": "Design and refine products with your team, in one shared design file.\n\nExplore Figma Design",
+      "id": null,
+      "classList": [
+        "css-d8pif1"
+      ],
+      "xpath": "//*[@id=\"main\"]/section[1]/div[1]/div[2]/div[2]/div[2]"
+    },
+    {
+      "text": "Design and refine products with your team, in one shared design file.\n\nExplore Figma Design",
+      "id": "home-hero-design-panel",
+      "classList": [],
+      "xpath": "//*[@id=\"home-hero-design-panel\"]"
+    },
+    {
+      "text": "Design and refine products with your team, in one shared design file.Explore Figma Design",
+      "id": "home-hero-build-panel",
+      "classList": [],
+      "xpath": "//*[@id=\"home-hero-build-panel\"]"
+    },
+    {
+      "text": "Design and refine products with your team, in one shared design file.Explore Figma Design",
+      "id": "home-hero-jam-panel",
+      "classList": [],
+      "xpath": "//*[@id=\"home-hero-jam-panel\"]"
+    },
+    {
+      "text": "Design and refine products with your team, in one shared design file.Explore Figma Design",
+      "id": "home-hero-present-panel",
+      "classList": [],
+      "xpath": "//*[@id=\"home-hero-present-panel\"]"
+    },
+    {
+      "text": "Nearly everything that designers and developers need is available in Figma.\n\nDiana Mounter\nHead of Design",
+      "id": null,
+      "classList": [
+        "css-2qv4k"
+      ],
+      "xpath": "//*[@id=\"main\"]/section[2]/div[1]"
+    },
+    {
+      "text": "Nearly everything that designers and developers need is available in Figma.",
+      "id": null,
+      "classList": [],
+      "xpath": "//*[@id=\"main\"]/section[2]/div[1]/figure[1]/div[1]"
+    },
+    {
+      "text": "Nearly everything that designers and developers need is available in Figma.",
+      "id": null,
+      "classList": [
+        "css-1de2cx2"
+      ],
+      "xpath": "//*[@id=\"main\"]/section[2]/div[1]/figure[1]/div[1]/blockquote[1]/div[1]"
+    },
+    {
+      "text": "Diana Mounter\nHead of Design",
+      "id": null,
+      "classList": [
+        "css-rvp98e"
+      ],
+      "xpath": "//*[@id=\"main\"]/section[2]/div[1]/figure[1]/figcaption[1]/div[1]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "css-sd3eu1"
+      ],
+      "xpath": "//*[@id=\"main\"]/section[2]/div[1]/figure[1]/figcaption[1]/div[1]/div[1]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "css-hra0ve"
+      ],
+      "xpath": "//*[@id=\"main\"]/section[2]/div[1]/figure[1]/figcaption[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "text": "Diana Mounter\nHead of Design",
+      "id": null,
+      "classList": [],
+      "xpath": "//*[@id=\"main\"]/section[2]/div[1]/figure[1]/figcaption[1]/div[1]/div[2]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "css-k008qs"
+      ],
+      "xpath": "//*[@id=\"main\"]/section[3]/div[1]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "css-18j6k9s"
+      ],
+      "xpath": "//*[@id=\"main\"]/section[3]/div[1]/div[1]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "css-18j6k9s"
+      ],
+      "xpath": "//*[@id=\"main\"]/section[3]/div[1]/div[2]"
+    },
+    {
+      "text": "Redesign how you design. \n\nExplore your ideas freely and iterate quickly.\n\nGenerate simple UI with AI\n\nInstantly create mockups to explore a bigger option space.\n\nLearn more\nDesign consistently with Auto Layout\nScale your edits instantly\nMake prototypes with AI\nEmbed prototypes in your presentations",
+      "id": null,
+      "classList": [
+        "css-1whjtwy"
+      ],
+      "xpath": "//*[@id=\"main\"]/section[4]/div[1]"
+    },
+    {
+      "text": "Redesign how you design. \n\nExplore your ideas freely and iterate quickly.",
+      "id": null,
+      "classList": [
+        "css-14196z3"
+      ],
+      "xpath": "//*[@id=\"main\"]/section[4]/div[1]/div[1]"
+    },
+    {
+      "text": "Generate simple UI with AI\n\nInstantly create mockups to explore a bigger option space.\n\nLearn more\nDesign consistently with Auto Layout\nScale your edits instantly\nMake prototypes with AI\nEmbed prototypes in your presentations",
+      "id": null,
+      "classList": [
+        "css-1vpmm7d"
+      ],
+      "xpath": "//*[@id=\"main\"]/section[4]/div[1]/div[2]"
+    },
+    {
+      "text": "Generate simple UI with AI\n\nInstantly create mockups to explore a bigger option space.\n\nLearn more\nDesign consistently with Auto Layout\nScale your edits instantly\nMake prototypes with AI\nEmbed prototypes in your presentations",
+      "id": null,
+      "classList": [
+        "css-1yxd7ui"
+      ],
+      "xpath": "//*[@id=\"main\"]/section[4]/div[1]/div[2]/div[1]"
+    },
+    {
+      "text": "Generate simple UI with AI\n\nInstantly create mockups to explore a bigger option space.\n\nLearn more",
+      "id": null,
+      "classList": [
+        "css-gvtxu4"
+      ],
+      "xpath": "//*[@id=\"main\"]/section[4]/div[1]/div[2]/div[1]/div[1]"
+    },
+    {
+      "text": "Instantly create mockups to explore a bigger option space.\n\nLearn more",
+      "id": "drawer-content-:R1jakinnmqpaula:",
+      "classList": [
+        "css-w43dqe"
+      ],
+      "xpath": "//*[@id=\"drawer-content-:R1jakinnmqpaula:\"]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "css-1o2fbcf"
+      ],
+      "xpath": "//*[@id=\"drawer-content-:R1jakinnmqpaula:\"]/div[1]"
+    },
+    {
+      "text": "Design consistently with Auto Layout",
+      "id": null,
+      "classList": [
+        "css-10y8asf"
+      ],
+      "xpath": "//*[@id=\"main\"]/section[4]/div[1]/div[2]/div[1]/div[2]"
+    },
+    {
+      "text": "Make designs that automatically adjust to layout size—no more manually resizing.",
+      "id": "drawer-content-:R2jakinnmqpaula:",
+      "classList": [
+        "css-w43dqe"
+      ],
+      "xpath": "//*[@id=\"drawer-content-:R2jakinnmqpaula:\"]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "css-1o2fbcf"
+      ],
+      "xpath": "//*[@id=\"drawer-content-:R2jakinnmqpaula:\"]/div[1]"
+    },
+    {
+      "text": "Scale your edits instantly",
+      "id": null,
+      "classList": [
+        "css-10y8asf"
+      ],
+      "xpath": "//*[@id=\"main\"]/section[4]/div[1]/div[2]/div[1]/div[3]"
+    },
+    {
+      "text": "Save time and effort by batch editing multiple frames at once, whether in a system or freeform. ",
+      "id": "drawer-content-:R3jakinnmqpaula:",
+      "classList": [
+        "css-w43dqe"
+      ],
+      "xpath": "//*[@id=\"drawer-content-:R3jakinnmqpaula:\"]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "css-1o2fbcf"
+      ],
+      "xpath": "//*[@id=\"drawer-content-:R3jakinnmqpaula:\"]/div[1]"
+    },
+    {
+      "text": "Make prototypes with AI",
+      "id": null,
+      "classList": [
+        "css-10y8asf"
+      ],
+      "xpath": "//*[@id=\"main\"]/section[4]/div[1]/div[2]/div[1]/div[4]"
+    },
+    {
+      "text": "Automatically create realistic prototypes for quick testing of your flows and interactions.",
+      "id": "drawer-content-:R4jakinnmqpaula:",
+      "classList": [
+        "css-w43dqe"
+      ],
+      "xpath": "//*[@id=\"drawer-content-:R4jakinnmqpaula:\"]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "css-1o2fbcf"
+      ],
+      "xpath": "//*[@id=\"drawer-content-:R4jakinnmqpaula:\"]/div[1]"
+    },
+    {
+      "text": "Embed prototypes in your presentations",
+      "id": null,
+      "classList": [
+        "css-10y8asf"
+      ],
+      "xpath": "//*[@id=\"main\"]/section[4]/div[1]/div[2]/div[1]/div[5]"
+    },
+    {
+      "text": "Present playable, high-fidelity prototypes directly from your deck. ",
+      "id": "drawer-content-:R5jakinnmqpaula:",
+      "classList": [
+        "css-w43dqe"
+      ],
+      "xpath": "//*[@id=\"drawer-content-:R5jakinnmqpaula:\"]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "css-1o2fbcf"
+      ],
+      "xpath": "//*[@id=\"drawer-content-:R5jakinnmqpaula:\"]/div[1]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [],
+      "xpath": "//*[@id=\"main\"]/section[4]/div[1]/div[2]/div[2]"
+    },
+    {
+      "text": "Bring design and dev together. \n\nEasily translate designs into code with a workflow built for developers.\n\n1/4\n\nDesign systems that scale. \n\nStreamline the product development process with a design system that’s aligned across design and code.\n\nLearn about design systems\nKeep design and code connected. \n\nBring your component code into Dev Mode so developers get the right code, every time.\n\nLearn about Dev Mode\nFocus on the details in Focus View. \n\nSelect and inspect a specific design in Dev Mode, then dig into the details in Focus View so you know exactly what to build.\n\nTrack progress with design statuses. \n\nStay informed with clear design status updates on what’s changed, completed, or ready to build—all in Dev Mode.",
+      "id": null,
+      "classList": [
+        "css-2qv4k"
+      ],
+      "xpath": "//*[@id=\"main\"]/section[5]/div[1]"
+    },
+    {
+      "text": "Bring design and dev together. \n\nEasily translate designs into code with a workflow built for developers.",
+      "id": null,
+      "classList": [
+        "css-dndybb"
+      ],
+      "xpath": "//*[@id=\"main\"]/section[5]/div[1]/div[1]"
+    },
+    {
+      "text": "1/4\n\nDesign systems that scale. \n\nStreamline the product development process with a design system that’s aligned across design and code.\n\nLearn about design systems\nKeep design and code connected. \n\nBring your component code into Dev Mode so developers get the right code, every time.\n\nLearn about Dev Mode\nFocus on the details in Focus View. \n\nSelect and inspect a specific design in Dev Mode, then dig into the details in Focus View so you know exactly what to build.\n\nTrack progress with design statuses. \n\nStay informed with clear design status updates on what’s changed, completed, or ready to build—all in Dev Mode.",
+      "id": ":R2kmnnmqpaula:",
+      "classList": [],
+      "xpath": "//*[@id=\":R2kmnnmqpaula:\"]"
+    },
+    {
+      "text": "1/4",
+      "id": null,
+      "classList": [
+        "css-dtve2v"
+      ],
+      "xpath": "//*[@id=\":R2kmnnmqpaula:\"]/div[1]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "css-5pz48w"
+      ],
+      "xpath": "//*[@id=\":R2kmnnmqpaula:\"]/div[1]/div[1]"
+    },
+    {
+      "text": "Design systems that scale. \n\nStreamline the product development process with a design system that’s aligned across design and code.\n\nLearn about design systems\nKeep design and code connected. \n\nBring your component code into Dev Mode so developers get the right code, every time.\n\nLearn about Dev Mode\nFocus on the details in Focus View. \n\nSelect and inspect a specific design in Dev Mode, then dig into the details in Focus View so you know exactly what to build.\n\nTrack progress with design statuses. \n\nStay informed with clear design status updates on what’s changed, completed, or ready to build—all in Dev Mode.",
+      "id": null,
+      "classList": [
+        "css-4mogik"
+      ],
+      "xpath": "//*[@id=\":R2kmnnmqpaula:\"]/div[2]"
+    },
+    {
+      "text": "Design systems that scale. \n\nStreamline the product development process with a design system that’s aligned across design and code.\n\nLearn about design systems\nKeep design and code connected. \n\nBring your component code into Dev Mode so developers get the right code, every time.\n\nLearn about Dev Mode\nFocus on the details in Focus View. \n\nSelect and inspect a specific design in Dev Mode, then dig into the details in Focus View so you know exactly what to build.\n\nTrack progress with design statuses. \n\nStay informed with clear design status updates on what’s changed, completed, or ready to build—all in Dev Mode.",
+      "id": null,
+      "classList": [
+        "css-ex6coi"
+      ],
+      "xpath": "//*[@id=\":R2kmnnmqpaula:\"]/div[2]/div[1]"
+    },
+    {
+      "text": "Design systems that scale. \n\nStreamline the product development process with a design system that’s aligned across design and code.\n\nLearn about design systems\nKeep design and code connected. \n\nBring your component code into Dev Mode so developers get the right code, every time.\n\nLearn about Dev Mode\nFocus on the details in Focus View. \n\nSelect and inspect a specific design in Dev Mode, then dig into the details in Focus View so you know exactly what to build.\n\nTrack progress with design statuses. \n\nStay informed with clear design status updates on what’s changed, completed, or ready to build—all in Dev Mode.",
+      "id": null,
+      "classList": [
+        "css-12x8pos"
+      ],
+      "xpath": "//*[@id=\":R2kmnnmqpaula:\"]/div[2]/div[1]/div[1]"
+    },
+    {
+      "text": "Design systems that scale. \n\nStreamline the product development process with a design system that’s aligned across design and code.\n\nLearn about design systems",
+      "id": null,
+      "classList": [
+        "css-1odll2t"
+      ],
+      "xpath": "//*[@id=\":R2kmnnmqpaula:\"]/div[2]/div[1]/div[1]/div[1]"
+    },
+    {
+      "text": "Design systems that scale. \n\nStreamline the product development process with a design system that’s aligned across design and code.",
+      "id": null,
+      "classList": [
+        "css-0"
+      ],
+      "xpath": "//*[@id=\":R2kmnnmqpaula:\"]/div[2]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "text": "Keep design and code connected. \n\nBring your component code into Dev Mode so developers get the right code, every time.\n\nLearn about Dev Mode",
+      "id": null,
+      "classList": [
+        "css-1odll2t"
+      ],
+      "xpath": "//*[@id=\":R2kmnnmqpaula:\"]/div[2]/div[1]/div[1]/div[2]"
+    },
+    {
+      "text": "Keep design and code connected. \n\nBring your component code into Dev Mode so developers get the right code, every time.",
+      "id": null,
+      "classList": [
+        "css-0"
+      ],
+      "xpath": "//*[@id=\":R2kmnnmqpaula:\"]/div[2]/div[1]/div[1]/div[2]/div[1]"
+    },
+    {
+      "text": "Focus on the details in Focus View. \n\nSelect and inspect a specific design in Dev Mode, then dig into the details in Focus View so you know exactly what to build.",
+      "id": null,
+      "classList": [
+        "css-1odll2t"
+      ],
+      "xpath": "//*[@id=\":R2kmnnmqpaula:\"]/div[2]/div[1]/div[1]/div[3]"
+    },
+    {
+      "text": "Focus on the details in Focus View. \n\nSelect and inspect a specific design in Dev Mode, then dig into the details in Focus View so you know exactly what to build.",
+      "id": null,
+      "classList": [
+        "css-0"
+      ],
+      "xpath": "//*[@id=\":R2kmnnmqpaula:\"]/div[2]/div[1]/div[1]/div[3]/div[1]"
+    },
+    {
+      "text": "Track progress with design statuses. \n\nStay informed with clear design status updates on what’s changed, completed, or ready to build—all in Dev Mode.",
+      "id": null,
+      "classList": [
+        "css-1odll2t"
+      ],
+      "xpath": "//*[@id=\":R2kmnnmqpaula:\"]/div[2]/div[1]/div[1]/div[4]"
+    },
+    {
+      "text": "Track progress with design statuses. \n\nStay informed with clear design status updates on what’s changed, completed, or ready to build—all in Dev Mode.",
+      "id": null,
+      "classList": [
+        "css-0"
+      ],
+      "xpath": "//*[@id=\":R2kmnnmqpaula:\"]/div[2]/div[1]/div[1]/div[4]/div[1]"
+    },
+    {
+      "text": "Build better products, together. \n\nEverything your team needs to brainstorm, design, and build.\n\nCreate one source of truth. \n\nEveryone can collaborate seamlessly in one shared file. Designers, developers, copywriters—even external contractors and clients.\n\nTalk. Chat. Comment. \n\nCommunicate via audio or chat to connect quickly within your file. Gather and keep track of feedback with comments.",
+      "id": null,
+      "classList": [
+        "css-2qv4k"
+      ],
+      "xpath": "//*[@id=\"main\"]/section[6]/div[1]"
+    },
+    {
+      "text": "Build better products, together. \n\nEverything your team needs to brainstorm, design, and build.",
+      "id": null,
+      "classList": [
+        "css-8rg3xf"
+      ],
+      "xpath": "//*[@id=\"main\"]/section[6]/div[1]/div[1]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "css-5u6z8r"
+      ],
+      "xpath": "//*[@id=\"main\"]/section[6]/div[1]/div[2]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [],
+      "xpath": "//*[@id=\"main\"]/section[6]/div[1]/div[2]/div[1]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "css-1ct1iq3"
+      ],
+      "xpath": "//*[@id=\"main\"]/section[6]/div[1]/div[2]/div[1]/div[1]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [],
+      "xpath": "//*[@id=\"main\"]/section[6]/div[1]/div[2]/div[1]/div[1]/div[1]"
+    },
+    {
+      "text": "Create one source of truth. \n\nEveryone can collaborate seamlessly in one shared file. Designers, developers, copywriters—even external contractors and clients.\n\nTalk. Chat. Comment. \n\nCommunicate via audio or chat to connect quickly within your file. Gather and keep track of feedback with comments.",
+      "id": null,
+      "classList": [
+        "css-bxu0zy"
+      ],
+      "xpath": "//*[@id=\"main\"]/section[6]/div[1]/div[3]"
+    },
+    {
+      "text": "Create one source of truth. \n\nEveryone can collaborate seamlessly in one shared file. Designers, developers, copywriters—even external contractors and clients.",
+      "id": null,
+      "classList": [
+        "css-0"
+      ],
+      "xpath": "//*[@id=\"main\"]/section[6]/div[1]/div[3]/div[1]"
+    },
+    {
+      "text": "Talk. Chat. Comment. \n\nCommunicate via audio or chat to connect quickly within your file. Gather and keep track of feedback with comments.",
+      "id": null,
+      "classList": [
+        "css-0"
+      ],
+      "xpath": "//*[@id=\"main\"]/section[6]/div[1]/div[3]/div[2]"
+    },
+    {
+      "text": "Every discipline has a centralized location to view, understand, and contribute to the work.\n\nLevon Sharrow\nDirector of Experience Design",
+      "id": null,
+      "classList": [
+        "css-2qv4k"
+      ],
+      "xpath": "//*[@id=\"main\"]/section[7]/div[1]"
+    },
+    {
+      "text": "Every discipline has a centralized location to view, understand, and contribute to the work.",
+      "id": null,
+      "classList": [],
+      "xpath": "//*[@id=\"main\"]/section[7]/div[1]/figure[1]/div[1]"
+    },
+    {
+      "text": "Every discipline has a centralized location to view, understand, and contribute to the work.",
+      "id": null,
+      "classList": [
+        "css-1de2cx2"
+      ],
+      "xpath": "//*[@id=\"main\"]/section[7]/div[1]/figure[1]/div[1]/blockquote[1]/div[1]"
+    },
+    {
+      "text": "Levon Sharrow\nDirector of Experience Design",
+      "id": null,
+      "classList": [
+        "css-rvp98e"
+      ],
+      "xpath": "//*[@id=\"main\"]/section[7]/div[1]/figure[1]/figcaption[1]/div[1]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "css-sd3eu1"
+      ],
+      "xpath": "//*[@id=\"main\"]/section[7]/div[1]/figure[1]/figcaption[1]/div[1]/div[1]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "css-5xfutw"
+      ],
+      "xpath": "//*[@id=\"main\"]/section[7]/div[1]/figure[1]/figcaption[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "text": "Levon Sharrow\nDirector of Experience Design",
+      "id": null,
+      "classList": [],
+      "xpath": "//*[@id=\"main\"]/section[7]/div[1]/figure[1]/figcaption[1]/div[1]/div[2]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "css-hbdr7s"
+      ],
+      "xpath": "//*[@id=\"main\"]/section[8]/div[1]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "inview",
+        "css-10klw3m"
+      ],
+      "xpath": "//*[@id=\"main\"]/section[8]/div[1]/div[1]"
+    },
+    {
+      "text": "Get started for free",
+      "id": null,
+      "classList": [
+        "css-swe8k0"
+      ],
+      "xpath": "//*[@id=\"main\"]/section[8]/div[2]"
+    },
+    {
+      "text": "Learn how to use Figma\nFigma Design: Beginner tutorial\nIntro to design systems\nGuide to FigJam",
+      "id": null,
+      "classList": [
+        "css-2qv4k"
+      ],
+      "xpath": "//*[@id=\"main\"]/section[9]/div[1]"
+    },
+    {
+      "text": "Figma Design: Beginner tutorial\nIntro to design systems\nGuide to FigJam",
+      "id": null,
+      "classList": [
+        "css-ptr0dn"
+      ],
+      "xpath": "//*[@id=\"main\"]/section[9]/div[1]/div[1]"
+    },
+    {
+      "text": "PRODUCT\nFigma Design\nFigJam\nDev Mode\nFigma Slides\nRelease notes\nWhat’s new\nDownloads\nPLANS\nPricing\nEnterprise\nOrganization\nProfessional\nUSE CASES\nUI design\nUX design\nWireframing\nDiagramming\nPrototyping\nBrainstorming\nPresentation maker\nOnline whiteboard\nAgile\nStrategic planning\nMind mapping\nRESOURCES\nBlog\nBest practices\nColor wheel\nColors\nColor picker\nTemplates\nDevelopers\nIntegrations\nAffiliate program\nResource library\nReports and insights\nSupport\nStatus\nLegal and privacy\nModern slavery statement\nClimate disclosure statement\nCOMPARE\nSketch\nAdobe XD\nFramer\nMiro\nCOMPANY\nAbout us\nEvents\nCustomers\nCareers\nEnglish",
+      "id": null,
+      "classList": [
+        "css-1pkcdmt"
+      ],
+      "xpath": "//*[@id=\"app\"]/footer[1]/div[1]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "css-wfj69d"
+      ],
+      "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[1]"
+    },
+    {
+      "text": "PRODUCT\nFigma Design\nFigJam\nDev Mode\nFigma Slides\nRelease notes\nWhat’s new\nDownloads\nPLANS\nPricing\nEnterprise\nOrganization\nProfessional",
+      "id": null,
+      "classList": [
+        "css-1pd9ey"
+      ],
+      "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[2]"
+    },
+    {
+      "text": "PRODUCT\nFigma Design\nFigJam\nDev Mode\nFigma Slides\nRelease notes\nWhat’s new\nDownloads",
+      "id": null,
+      "classList": [
+        "css-1ippal"
+      ],
+      "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[2]/div[1]"
+    },
+    {
+      "text": "PLANS\nPricing\nEnterprise\nOrganization\nProfessional",
+      "id": null,
+      "classList": [
+        "css-1ippal"
+      ],
+      "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[2]/div[2]"
+    },
+    {
+      "text": "USE CASES\nUI design\nUX design\nWireframing\nDiagramming\nPrototyping\nBrainstorming\nPresentation maker\nOnline whiteboard\nAgile\nStrategic planning\nMind mapping",
+      "id": null,
+      "classList": [
+        "css-1pd9ey"
+      ],
+      "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[3]"
+    },
+    {
+      "text": "USE CASES\nUI design\nUX design\nWireframing\nDiagramming\nPrototyping\nBrainstorming\nPresentation maker\nOnline whiteboard\nAgile\nStrategic planning\nMind mapping",
+      "id": null,
+      "classList": [
+        "css-1ippal"
+      ],
+      "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[3]/div[1]"
+    },
+    {
+      "text": "RESOURCES\nBlog\nBest practices\nColor wheel\nColors\nColor picker\nTemplates\nDevelopers\nIntegrations\nAffiliate program\nResource library\nReports and insights\nSupport\nStatus\nLegal and privacy\nModern slavery statement\nClimate disclosure statement",
+      "id": null,
+      "classList": [
+        "css-1pd9ey"
+      ],
+      "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[4]"
+    },
+    {
+      "text": "RESOURCES\nBlog\nBest practices\nColor wheel\nColors\nColor picker\nTemplates\nDevelopers\nIntegrations\nAffiliate program\nResource library\nReports and insights\nSupport\nStatus\nLegal and privacy\nModern slavery statement\nClimate disclosure statement",
+      "id": null,
+      "classList": [
+        "css-1ippal"
+      ],
+      "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[4]/div[1]"
+    },
+    {
+      "text": "COMPARE\nSketch\nAdobe XD\nFramer\nMiro\nCOMPANY\nAbout us\nEvents\nCustomers\nCareers",
+      "id": null,
+      "classList": [
+        "css-1pd9ey"
+      ],
+      "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[5]"
+    },
+    {
+      "text": "COMPARE\nSketch\nAdobe XD\nFramer\nMiro",
+      "id": null,
+      "classList": [
+        "css-1ippal"
+      ],
+      "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[5]/div[1]"
+    },
+    {
+      "text": "COMPANY\nAbout us\nEvents\nCustomers\nCareers",
+      "id": null,
+      "classList": [
+        "css-1ippal"
+      ],
+      "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[5]/div[2]"
+    },
+    {
+      "text": "English",
+      "id": null,
+      "classList": [
+        "css-19c8ja"
+      ],
+      "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[6]"
+    },
+    {
+      "text": "English",
+      "id": null,
+      "classList": [
+        "css-17o2drt"
+      ],
+      "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[6]/div[1]"
+    },
+    {
+      "text": "English",
+      "id": null,
+      "classList": [
+        "css-79elbk"
+      ],
+      "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[6]/div[1]/div[1]"
+    },
+    {
+      "text": "English",
+      "id": null,
+      "classList": [
+        "css-19nzcwv"
+      ],
+      "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[6]/div[1]/div[1]/button[1]/div[1]"
+    },
+    {
+      "text": "EnglishDeutschEspañol (España)Español (Latinoamérica)FrançaisPortuguês (Brasil)日本語한국어",
+      "id": null,
+      "classList": [],
+      "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[6]/div[1]/div[1]/div[1]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "ReactModalPortal"
+      ],
+      "xpath": "/html/body/div[2]"
+    }
+  ],
+  "a": [
+    {
+      "text": "Skip to main content",
+      "id": null,
+      "classList": [
+        "css-11bbqhe"
+      ],
+      "xpath": "//*[@id=\"app\"]/a[1]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "css-i8j8ci"
+      ],
+      "xpath": "//*[@id=\"app\"]/div[1]/header[1]/div[1]/div[1]/a[1]"
+    },
+    {
+      "text": "Pricing",
+      "id": null,
+      "classList": [
+        "css-1i2o3zn"
+      ],
+      "xpath": "//*[@id=\"app\"]/div[1]/header[1]/div[1]/div[1]/nav[1]/ul[1]/li[5]/a[1]"
+    },
+    {
+      "text": "Contact sales",
+      "id": null,
+      "classList": [
+        "css-1efssly"
+      ],
+      "xpath": "//*[@id=\"app\"]/div[1]/header[1]/div[1]/ul[1]/li[1]/a[1]"
+    },
+    {
+      "text": "Log in",
+      "id": null,
+      "classList": [
+        "css-1l39rmt"
+      ],
+      "xpath": "//*[@id=\"app\"]/div[1]/header[1]/div[1]/ul[1]/li[2]/a[1]"
+    },
+    {
+      "text": "Get started",
+      "id": null,
+      "classList": [
+        "css-zohdqv"
+      ],
+      "xpath": "//*[@id=\"app\"]/div[1]/header[1]/div[1]/ul[1]/li[3]/a[1]"
+    },
+    {
+      "text": "Get started for free",
+      "id": null,
+      "classList": [
+        "css-fa3ze6"
+      ],
+      "xpath": "//*[@id=\"app\"]/div[1]/header[1]/div[1]/ul[1]/li[3]/a[2]"
+    },
+    {
+      "text": "Figma DesignDesign and prototype in one place",
+      "id": null,
+      "classList": [
+        "css-19yzxpf"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-d07e0c782331\"]/div[1]/ul[1]/li[1]/a[1]"
+    },
+    {
+      "text": "FigJamCollaborate with a digital whiteboard",
+      "id": null,
+      "classList": [
+        "css-19yzxpf"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-d07e0c782331\"]/div[1]/ul[1]/li[2]/a[1]"
+    },
+    {
+      "text": "Dev ModeTranslate designs into code",
+      "id": null,
+      "classList": [
+        "css-19yzxpf"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-d07e0c782331\"]/div[1]/ul[1]/li[3]/a[1]"
+    },
+    {
+      "text": "Figma SlidesBetaCo-create presentations",
+      "id": null,
+      "classList": [
+        "css-19yzxpf"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-d07e0c782331\"]/div[1]/ul[1]/li[4]/a[1]"
+    },
+    {
+      "text": "AINewExplore all Figma AI features",
+      "id": null,
+      "classList": [
+        "css-19yzxpf"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-d07e0c782331\"]/div[1]/ul[1]/li[5]/a[1]"
+    },
+    {
+      "text": "DownloadsGet the desktop, mobile, and font installer apps",
+      "id": null,
+      "classList": [
+        "css-19yzxpf"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-d07e0c782331\"]/div[1]/ul[1]/li[6]/a[1]"
+    },
+    {
+      "text": "What’s newSee the latest features and releases",
+      "id": null,
+      "classList": [
+        "css-19yzxpf"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-d07e0c782331\"]/div[1]/ul[1]/li[7]/a[1]"
+    },
+    {
+      "text": "Design systems",
+      "id": null,
+      "classList": [
+        "css-1lfj54z"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-0214639c41a6\"]/div[1]/div[1]/div[1]/ul[1]/div[1]/li[1]/a[1]"
+    },
+    {
+      "text": "Prototyping",
+      "id": null,
+      "classList": [
+        "css-1lfj54z"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-0214639c41a6\"]/div[1]/div[1]/div[1]/ul[1]/div[1]/li[2]/a[1]"
+    },
+    {
+      "text": "UX design",
+      "id": null,
+      "classList": [
+        "css-1lfj54z"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-0214639c41a6\"]/div[1]/div[1]/div[1]/ul[1]/div[1]/li[3]/a[1]"
+    },
+    {
+      "text": "Web design",
+      "id": null,
+      "classList": [
+        "css-1lfj54z"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-0214639c41a6\"]/div[1]/div[1]/div[1]/ul[1]/div[1]/li[4]/a[1]"
+    },
+    {
+      "text": "Wireframing",
+      "id": null,
+      "classList": [
+        "css-1lfj54z"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-0214639c41a6\"]/div[1]/div[1]/div[1]/ul[1]/div[1]/li[5]/a[1]"
+    },
+    {
+      "text": "Online whiteboard",
+      "id": null,
+      "classList": [
+        "css-1lfj54z"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-0214639c41a6\"]/div[1]/div[1]/div[1]/ul[1]/div[1]/li[6]/a[1]"
+    },
+    {
+      "text": "Team meetings",
+      "id": null,
+      "classList": [
+        "css-1lfj54z"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-0214639c41a6\"]/div[1]/div[1]/div[1]/ul[1]/div[1]/li[7]/a[1]"
+    },
+    {
+      "text": "Strategic planning",
+      "id": null,
+      "classList": [
+        "css-1lfj54z"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-0214639c41a6\"]/div[1]/div[1]/div[1]/ul[1]/div[2]/li[1]/a[1]"
+    },
+    {
+      "text": "Brainstorming",
+      "id": null,
+      "classList": [
+        "css-1lfj54z"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-0214639c41a6\"]/div[1]/div[1]/div[1]/ul[1]/div[2]/li[2]/a[1]"
+    },
+    {
+      "text": "Diagramming",
+      "id": null,
+      "classList": [
+        "css-1lfj54z"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-0214639c41a6\"]/div[1]/div[1]/div[1]/ul[1]/div[2]/li[3]/a[1]"
+    },
+    {
+      "text": "Product development",
+      "id": null,
+      "classList": [
+        "css-1lfj54z"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-0214639c41a6\"]/div[1]/div[1]/div[1]/ul[1]/div[2]/li[4]/a[1]"
+    },
+    {
+      "text": "Web development",
+      "id": null,
+      "classList": [
+        "css-1lfj54z"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-0214639c41a6\"]/div[1]/div[1]/div[1]/ul[1]/div[2]/li[5]/a[1]"
+    },
+    {
+      "text": "Design handoff",
+      "id": null,
+      "classList": [
+        "css-1lfj54z"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-0214639c41a6\"]/div[1]/div[1]/div[1]/ul[1]/div[2]/li[6]/a[1]"
+    },
+    {
+      "text": "Agile",
+      "id": null,
+      "classList": [
+        "css-1lfj54z"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-0214639c41a6\"]/div[1]/div[1]/div[1]/ul[1]/div[2]/li[7]/a[1]"
+    },
+    {
+      "text": "Design",
+      "id": null,
+      "classList": [
+        "css-1lfj54z"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-0214639c41a6\"]/div[1]/div[2]/div[1]/ul[1]/div[1]/li[1]/a[1]"
+    },
+    {
+      "text": "Engineering",
+      "id": null,
+      "classList": [
+        "css-1lfj54z"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-0214639c41a6\"]/div[1]/div[2]/div[1]/ul[1]/div[1]/li[2]/a[1]"
+    },
+    {
+      "text": "Product managers",
+      "id": null,
+      "classList": [
+        "css-1lfj54z"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-0214639c41a6\"]/div[1]/div[2]/div[1]/ul[1]/div[1]/li[3]/a[1]"
+    },
+    {
+      "text": "Enterprise",
+      "id": null,
+      "classList": [
+        "css-1lfj54z"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-0214639c41a6\"]/div[1]/div[3]/div[1]/ul[1]/div[1]/li[1]/a[1]"
+    },
+    {
+      "text": "Education",
+      "id": null,
+      "classList": [
+        "css-1lfj54z"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-0214639c41a6\"]/div[1]/div[3]/div[1]/ul[1]/div[1]/li[2]/a[1]"
+    },
+    {
+      "text": "Creator fundBuild and sell what you love",
+      "id": null,
+      "classList": [
+        "css-19yzxpf"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-30f59e9839de\"]/div[1]/ul[1]/li[1]/a[1]"
+    },
+    {
+      "text": "User groupsJoin a local Friends of Figma group",
+      "id": null,
+      "classList": [
+        "css-19yzxpf"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-30f59e9839de\"]/div[1]/ul[2]/li[1]/a[1]"
+    },
+    {
+      "text": "EventsLearn best practices at virtual events",
+      "id": null,
+      "classList": [
+        "css-19yzxpf"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-30f59e9839de\"]/div[1]/ul[3]/li[1]/a[1]"
+    },
+    {
+      "text": "Customer storiesRead about leading product teams",
+      "id": null,
+      "classList": [
+        "css-19yzxpf"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-30f59e9839de\"]/div[1]/ul[4]/li[1]/a[1]"
+    },
+    {
+      "text": "Shortcut: The Figma blogStories about how products take shape—and shape our world",
+      "id": null,
+      "classList": [
+        "css-19yzxpf"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-35621d40dde8\"]/div[1]/ul[1]/li[1]/a[1]"
+    },
+    {
+      "text": "Plugins",
+      "id": null,
+      "classList": [
+        "css-1lfj54z"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-35621d40dde8\"]/div[1]/div[1]/div[1]/ul[1]/div[1]/li[1]/a[1]"
+    },
+    {
+      "text": "UI kits",
+      "id": null,
+      "classList": [
+        "css-1lfj54z"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-35621d40dde8\"]/div[1]/div[1]/div[1]/ul[1]/div[1]/li[2]/a[1]"
+    },
+    {
+      "text": "Icons",
+      "id": null,
+      "classList": [
+        "css-1lfj54z"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-35621d40dde8\"]/div[1]/div[1]/div[1]/ul[1]/div[1]/li[3]/a[1]"
+    },
+    {
+      "text": "Widgets",
+      "id": null,
+      "classList": [
+        "css-1lfj54z"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-35621d40dde8\"]/div[1]/div[1]/div[1]/ul[1]/div[1]/li[4]/a[1]"
+    },
+    {
+      "text": "Templates",
+      "id": null,
+      "classList": [
+        "css-1lfj54z"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-35621d40dde8\"]/div[1]/div[1]/div[1]/ul[1]/div[1]/li[5]/a[1]"
+    },
+    {
+      "text": "Developer docs",
+      "id": null,
+      "classList": [
+        "css-1lfj54z"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-35621d40dde8\"]/div[1]/div[1]/div[1]/ul[1]/div[1]/li[6]/a[1]"
+    },
+    {
+      "text": "Partners",
+      "id": null,
+      "classList": [
+        "css-1lfj54z"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-35621d40dde8\"]/div[1]/div[1]/div[1]/ul[1]/div[1]/li[7]/a[1]"
+    },
+    {
+      "text": "See all",
+      "id": null,
+      "classList": [
+        "css-1lfj54z"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-35621d40dde8\"]/div[1]/div[1]/div[1]/ul[1]/div[1]/li[8]/a[1]"
+    },
+    {
+      "text": "Best practices",
+      "id": null,
+      "classList": [
+        "css-1lfj54z"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-35621d40dde8\"]/div[1]/div[2]/div[1]/ul[1]/div[1]/li[1]/a[1]"
+    },
+    {
+      "text": "Reports & insights",
+      "id": null,
+      "classList": [
+        "css-1lfj54z"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-35621d40dde8\"]/div[1]/div[2]/div[1]/ul[1]/div[1]/li[2]/a[1]"
+    },
+    {
+      "text": "Resource library",
+      "id": null,
+      "classList": [
+        "css-1lfj54z"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-35621d40dde8\"]/div[1]/div[2]/div[1]/ul[1]/div[1]/li[3]/a[1]"
+    },
+    {
+      "text": "Demos",
+      "id": null,
+      "classList": [
+        "css-1lfj54z"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-35621d40dde8\"]/div[1]/div[2]/div[1]/ul[1]/div[1]/li[4]/a[1]"
+    },
+    {
+      "text": "Webinars",
+      "id": null,
+      "classList": [
+        "css-1lfj54z"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-35621d40dde8\"]/div[1]/div[2]/div[1]/ul[1]/div[1]/li[5]/a[1]"
+    },
+    {
+      "text": "Help center",
+      "id": null,
+      "classList": [
+        "css-1lfj54z"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-35621d40dde8\"]/div[1]/div[2]/div[1]/ul[1]/div[1]/li[6]/a[1]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [],
+      "xpath": "//*[@id=\"app\"]/div[2]/header[1]/div[1]/a[1]"
+    },
+    {
+      "text": "Contact sales",
+      "id": null,
+      "classList": [
+        "css-1efssly"
+      ],
+      "xpath": "//*[@id=\"app\"]/div[2]/header[1]/div[1]/div[1]/ul[1]/li[1]/a[1]"
+    },
+    {
+      "text": "Log in",
+      "id": null,
+      "classList": [
+        "css-1l39rmt"
+      ],
+      "xpath": "//*[@id=\"app\"]/div[2]/header[1]/div[1]/div[1]/ul[1]/li[2]/a[1]"
+    },
+    {
+      "text": "Get started",
+      "id": null,
+      "classList": [
+        "css-zohdqv"
+      ],
+      "xpath": "//*[@id=\"app\"]/div[2]/header[1]/div[1]/div[1]/ul[1]/li[3]/a[1]"
+    },
+    {
+      "text": "Get started for free",
+      "id": null,
+      "classList": [
+        "css-fa3ze6"
+      ],
+      "xpath": "//*[@id=\"app\"]/div[2]/header[1]/div[1]/div[1]/ul[1]/li[3]/a[2]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "css-1cyrmwo"
+      ],
+      "xpath": "//*[@id=\"mobile-navigation-menu\"]/div[2]/div[1]/a[1]"
+    },
+    {
+      "text": "Figma DesignDesign and prototype in one place",
+      "id": null,
+      "classList": [
+        "css-1gjsyih"
+      ],
+      "xpath": "//*[@id=\"mobile-dropdown-d07e0c782331\"]/ul[1]/li[1]/a[1]"
+    },
+    {
+      "text": "FigJamCollaborate with a digital whiteboard",
+      "id": null,
+      "classList": [
+        "css-1gjsyih"
+      ],
+      "xpath": "//*[@id=\"mobile-dropdown-d07e0c782331\"]/ul[1]/li[2]/a[1]"
+    },
+    {
+      "text": "Dev ModeTranslate designs into code",
+      "id": null,
+      "classList": [
+        "css-1gjsyih"
+      ],
+      "xpath": "//*[@id=\"mobile-dropdown-d07e0c782331\"]/ul[1]/li[3]/a[1]"
+    },
+    {
+      "text": "Figma SlidesBeta",
+      "id": null,
+      "classList": [
+        "css-1gjsyih"
+      ],
+      "xpath": "//*[@id=\"mobile-dropdown-d07e0c782331\"]/ul[1]/li[4]/a[1]"
+    },
+    {
+      "text": "AINew",
+      "id": null,
+      "classList": [
+        "css-1gjsyih"
+      ],
+      "xpath": "//*[@id=\"mobile-dropdown-d07e0c782331\"]/ul[1]/li[5]/a[1]"
+    },
+    {
+      "text": "Downloads",
+      "id": null,
+      "classList": [
+        "css-1gjsyih"
+      ],
+      "xpath": "//*[@id=\"mobile-dropdown-d07e0c782331\"]/ul[1]/li[6]/a[1]"
+    },
+    {
+      "text": "What’s new",
+      "id": null,
+      "classList": [
+        "css-1gjsyih"
+      ],
+      "xpath": "//*[@id=\"mobile-dropdown-d07e0c782331\"]/ul[1]/li[7]/a[1]"
+    },
+    {
+      "text": "Design systems",
+      "id": null,
+      "classList": [
+        "css-asbe13"
+      ],
+      "xpath": "//*[@id=\"mobile-dropdown-0214639c41a6\"]/ul[1]/li[1]/ul[1]/li[1]/a[1]"
+    },
+    {
+      "text": "Prototyping",
+      "id": null,
+      "classList": [
+        "css-asbe13"
+      ],
+      "xpath": "//*[@id=\"mobile-dropdown-0214639c41a6\"]/ul[1]/li[1]/ul[1]/li[2]/a[1]"
+    },
+    {
+      "text": "UX design",
+      "id": null,
+      "classList": [
+        "css-asbe13"
+      ],
+      "xpath": "//*[@id=\"mobile-dropdown-0214639c41a6\"]/ul[1]/li[1]/ul[1]/li[3]/a[1]"
+    },
+    {
+      "text": "Web design",
+      "id": null,
+      "classList": [
+        "css-asbe13"
+      ],
+      "xpath": "//*[@id=\"mobile-dropdown-0214639c41a6\"]/ul[1]/li[1]/ul[1]/li[4]/a[1]"
+    },
+    {
+      "text": "Wireframing",
+      "id": null,
+      "classList": [
+        "css-asbe13"
+      ],
+      "xpath": "//*[@id=\"mobile-dropdown-0214639c41a6\"]/ul[1]/li[1]/ul[1]/li[5]/a[1]"
+    },
+    {
+      "text": "Online whiteboard",
+      "id": null,
+      "classList": [
+        "css-asbe13"
+      ],
+      "xpath": "//*[@id=\"mobile-dropdown-0214639c41a6\"]/ul[1]/li[1]/ul[1]/li[6]/a[1]"
+    },
+    {
+      "text": "Team meetings",
+      "id": null,
+      "classList": [
+        "css-asbe13"
+      ],
+      "xpath": "//*[@id=\"mobile-dropdown-0214639c41a6\"]/ul[1]/li[1]/ul[1]/li[7]/a[1]"
+    },
+    {
+      "text": "Strategic planning",
+      "id": null,
+      "classList": [
+        "css-asbe13"
+      ],
+      "xpath": "//*[@id=\"mobile-dropdown-0214639c41a6\"]/ul[1]/li[1]/ul[1]/li[8]/a[1]"
+    },
+    {
+      "text": "Brainstorming",
+      "id": null,
+      "classList": [
+        "css-asbe13"
+      ],
+      "xpath": "//*[@id=\"mobile-dropdown-0214639c41a6\"]/ul[1]/li[1]/ul[1]/li[9]/a[1]"
+    },
+    {
+      "text": "Diagramming",
+      "id": null,
+      "classList": [
+        "css-asbe13"
+      ],
+      "xpath": "//*[@id=\"mobile-dropdown-0214639c41a6\"]/ul[1]/li[1]/ul[1]/li[10]/a[1]"
+    },
+    {
+      "text": "Product development",
+      "id": null,
+      "classList": [
+        "css-asbe13"
+      ],
+      "xpath": "//*[@id=\"mobile-dropdown-0214639c41a6\"]/ul[1]/li[1]/ul[1]/li[11]/a[1]"
+    },
+    {
+      "text": "Web development",
+      "id": null,
+      "classList": [
+        "css-asbe13"
+      ],
+      "xpath": "//*[@id=\"mobile-dropdown-0214639c41a6\"]/ul[1]/li[1]/ul[1]/li[12]/a[1]"
+    },
+    {
+      "text": "Design handoff",
+      "id": null,
+      "classList": [
+        "css-asbe13"
+      ],
+      "xpath": "//*[@id=\"mobile-dropdown-0214639c41a6\"]/ul[1]/li[1]/ul[1]/li[13]/a[1]"
+    },
+    {
+      "text": "Agile",
+      "id": null,
+      "classList": [
+        "css-asbe13"
+      ],
+      "xpath": "//*[@id=\"mobile-dropdown-0214639c41a6\"]/ul[1]/li[1]/ul[1]/li[14]/a[1]"
+    },
+    {
+      "text": "Design",
+      "id": null,
+      "classList": [
+        "css-asbe13"
+      ],
+      "xpath": "//*[@id=\"mobile-dropdown-0214639c41a6\"]/ul[1]/li[2]/ul[1]/li[1]/a[1]"
+    },
+    {
+      "text": "Engineering",
+      "id": null,
+      "classList": [
+        "css-asbe13"
+      ],
+      "xpath": "//*[@id=\"mobile-dropdown-0214639c41a6\"]/ul[1]/li[2]/ul[1]/li[2]/a[1]"
+    },
+    {
+      "text": "Product managers",
+      "id": null,
+      "classList": [
+        "css-asbe13"
+      ],
+      "xpath": "//*[@id=\"mobile-dropdown-0214639c41a6\"]/ul[1]/li[2]/ul[1]/li[3]/a[1]"
+    },
+    {
+      "text": "Enterprise",
+      "id": null,
+      "classList": [
+        "css-asbe13"
+      ],
+      "xpath": "//*[@id=\"mobile-dropdown-0214639c41a6\"]/ul[1]/li[3]/ul[1]/li[1]/a[1]"
+    },
+    {
+      "text": "Education",
+      "id": null,
+      "classList": [
+        "css-asbe13"
+      ],
+      "xpath": "//*[@id=\"mobile-dropdown-0214639c41a6\"]/ul[1]/li[3]/ul[1]/li[2]/a[1]"
+    },
+    {
+      "text": "Creator fund",
+      "id": null,
+      "classList": [
+        "css-1gjsyih"
+      ],
+      "xpath": "//*[@id=\"mobile-dropdown-30f59e9839de\"]/ul[1]/li[1]/a[1]"
+    },
+    {
+      "text": "User groups",
+      "id": null,
+      "classList": [
+        "css-1gjsyih"
+      ],
+      "xpath": "//*[@id=\"mobile-dropdown-30f59e9839de\"]/ul[1]/li[2]/a[1]"
+    },
+    {
+      "text": "Events",
+      "id": null,
+      "classList": [
+        "css-1gjsyih"
+      ],
+      "xpath": "//*[@id=\"mobile-dropdown-30f59e9839de\"]/ul[1]/li[3]/a[1]"
+    },
+    {
+      "text": "Customer stories",
+      "id": null,
+      "classList": [
+        "css-1gjsyih"
+      ],
+      "xpath": "//*[@id=\"mobile-dropdown-30f59e9839de\"]/ul[1]/li[4]/a[1]"
+    },
+    {
+      "text": "Plugins",
+      "id": null,
+      "classList": [
+        "css-asbe13"
+      ],
+      "xpath": "//*[@id=\"mobile-dropdown-35621d40dde8\"]/ul[1]/li[1]/ul[1]/li[1]/a[1]"
+    },
+    {
+      "text": "UI kits",
+      "id": null,
+      "classList": [
+        "css-asbe13"
+      ],
+      "xpath": "//*[@id=\"mobile-dropdown-35621d40dde8\"]/ul[1]/li[1]/ul[1]/li[2]/a[1]"
+    },
+    {
+      "text": "Icons",
+      "id": null,
+      "classList": [
+        "css-asbe13"
+      ],
+      "xpath": "//*[@id=\"mobile-dropdown-35621d40dde8\"]/ul[1]/li[1]/ul[1]/li[3]/a[1]"
+    },
+    {
+      "text": "Widgets",
+      "id": null,
+      "classList": [
+        "css-asbe13"
+      ],
+      "xpath": "//*[@id=\"mobile-dropdown-35621d40dde8\"]/ul[1]/li[1]/ul[1]/li[4]/a[1]"
+    },
+    {
+      "text": "Templates",
+      "id": null,
+      "classList": [
+        "css-asbe13"
+      ],
+      "xpath": "//*[@id=\"mobile-dropdown-35621d40dde8\"]/ul[1]/li[1]/ul[1]/li[5]/a[1]"
+    },
+    {
+      "text": "Developer docs",
+      "id": null,
+      "classList": [
+        "css-asbe13"
+      ],
+      "xpath": "//*[@id=\"mobile-dropdown-35621d40dde8\"]/ul[1]/li[1]/ul[1]/li[6]/a[1]"
+    },
+    {
+      "text": "Partners",
+      "id": null,
+      "classList": [
+        "css-asbe13"
+      ],
+      "xpath": "//*[@id=\"mobile-dropdown-35621d40dde8\"]/ul[1]/li[1]/ul[1]/li[7]/a[1]"
+    },
+    {
+      "text": "See all",
+      "id": null,
+      "classList": [
+        "css-asbe13"
+      ],
+      "xpath": "//*[@id=\"mobile-dropdown-35621d40dde8\"]/ul[1]/li[1]/ul[1]/li[8]/a[1]"
+    },
+    {
+      "text": "Shortcut: the Figma blog",
+      "id": null,
+      "classList": [
+        "css-asbe13"
+      ],
+      "xpath": "//*[@id=\"mobile-dropdown-35621d40dde8\"]/ul[1]/li[2]/ul[1]/li[1]/a[1]"
+    },
+    {
+      "text": "Best practices",
+      "id": null,
+      "classList": [
+        "css-asbe13"
+      ],
+      "xpath": "//*[@id=\"mobile-dropdown-35621d40dde8\"]/ul[1]/li[2]/ul[1]/li[2]/a[1]"
+    },
+    {
+      "text": "Reports & insights",
+      "id": null,
+      "classList": [
+        "css-asbe13"
+      ],
+      "xpath": "//*[@id=\"mobile-dropdown-35621d40dde8\"]/ul[1]/li[2]/ul[1]/li[3]/a[1]"
+    },
+    {
+      "text": "Resource library",
+      "id": null,
+      "classList": [
+        "css-asbe13"
+      ],
+      "xpath": "//*[@id=\"mobile-dropdown-35621d40dde8\"]/ul[1]/li[2]/ul[1]/li[4]/a[1]"
+    },
+    {
+      "text": "Demos",
+      "id": null,
+      "classList": [
+        "css-asbe13"
+      ],
+      "xpath": "//*[@id=\"mobile-dropdown-35621d40dde8\"]/ul[1]/li[2]/ul[1]/li[5]/a[1]"
+    },
+    {
+      "text": "Webinars",
+      "id": null,
+      "classList": [
+        "css-asbe13"
+      ],
+      "xpath": "//*[@id=\"mobile-dropdown-35621d40dde8\"]/ul[1]/li[2]/ul[1]/li[6]/a[1]"
+    },
+    {
+      "text": "Help center",
+      "id": null,
+      "classList": [
+        "css-asbe13"
+      ],
+      "xpath": "//*[@id=\"mobile-dropdown-35621d40dde8\"]/ul[1]/li[2]/ul[1]/li[7]/a[1]"
+    },
+    {
+      "text": "Pricing",
+      "id": null,
+      "classList": [
+        "css-1h32o5w"
+      ],
+      "xpath": "//*[@id=\"mobile-navigation-menu\"]/div[2]/nav[1]/ul[1]/div[1]/li[5]/a[1]"
+    },
+    {
+      "text": "Contact sales",
+      "id": null,
+      "classList": [
+        "css-jlhfyp"
+      ],
+      "xpath": "//*[@id=\"mobile-navigation-menu\"]/div[2]/nav[1]/ul[1]/div[1]/li[6]/a[1]"
+    },
+    {
+      "text": "Get started",
+      "id": null,
+      "classList": [
+        "css-3mq75y"
+      ],
+      "xpath": "//*[@id=\"mobile-navigation-menu\"]/div[2]/nav[1]/ul[1]/div[2]/li[1]/a[1]"
+    },
+    {
+      "text": "Log in",
+      "id": null,
+      "classList": [
+        "css-1a0a2lx"
+      ],
+      "xpath": "//*[@id=\"mobile-navigation-menu\"]/div[2]/nav[1]/ul[1]/div[2]/li[2]/a[1]"
+    },
+    {
+      "text": "Get started for free",
+      "id": null,
+      "classList": [
+        "css-m43zq1"
+      ],
+      "xpath": "//*[@id=\"main\"]/section[1]/div[1]/div[1]/div[2]/div[1]/a[1]"
+    },
+    {
+      "text": "Explore Figma Design",
+      "id": null,
+      "classList": [
+        "css-po6k1f"
+      ],
+      "xpath": "//*[@id=\"home-hero-design-panel\"]/a[1]"
+    },
+    {
+      "text": "Explore Figma Design",
+      "id": null,
+      "classList": [
+        "css-po6k1f"
+      ],
+      "xpath": "//*[@id=\"home-hero-build-panel\"]/a[1]"
+    },
+    {
+      "text": "Explore Figma Design",
+      "id": null,
+      "classList": [
+        "css-po6k1f"
+      ],
+      "xpath": "//*[@id=\"home-hero-jam-panel\"]/a[1]"
+    },
+    {
+      "text": "Explore Figma Design",
+      "id": null,
+      "classList": [
+        "css-po6k1f"
+      ],
+      "xpath": "//*[@id=\"home-hero-present-panel\"]/a[1]"
+    },
+    {
+      "text": "Learn more",
+      "id": null,
+      "classList": [
+        "css-139d3n1"
+      ],
+      "xpath": "//*[@id=\"drawer-content-:R1jakinnmqpaula:\"]/a[1]"
+    },
+    {
+      "text": "Learn about design systems",
+      "id": null,
+      "classList": [
+        "css-1lln5ia"
+      ],
+      "xpath": "//*[@id=\":R2kmnnmqpaula:\"]/div[2]/div[1]/div[1]/div[1]/a[1]"
+    },
+    {
+      "text": "Learn about Dev Mode",
+      "id": null,
+      "classList": [
+        "css-1lln5ia"
+      ],
+      "xpath": "//*[@id=\":R2kmnnmqpaula:\"]/div[2]/div[1]/div[1]/div[2]/a[1]"
+    },
+    {
+      "text": "Get started for free",
+      "id": null,
+      "classList": [
+        "css-17xt3vd"
+      ],
+      "xpath": "//*[@id=\"main\"]/section[8]/div[2]/a[1]"
+    },
+    {
+      "text": "Figma Design: Beginner tutorial",
+      "id": null,
+      "classList": [
+        "css-8o044u"
+      ],
+      "xpath": "//*[@id=\"main\"]/section[9]/div[1]/div[1]/a[1]"
+    },
+    {
+      "text": "Intro to design systems",
+      "id": null,
+      "classList": [
+        "css-8o044u"
+      ],
+      "xpath": "//*[@id=\"main\"]/section[9]/div[1]/div[1]/a[2]"
+    },
+    {
+      "text": "Guide to FigJam",
+      "id": null,
+      "classList": [
+        "css-8o044u"
+      ],
+      "xpath": "//*[@id=\"main\"]/section[9]/div[1]/div[1]/a[3]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "css-1baulvz"
+      ],
+      "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[1]/a[1]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "css-3l9mu9"
+      ],
+      "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[1]/ul[1]/li[1]/a[1]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "css-3l9mu9"
+      ],
+      "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[1]/ul[1]/li[2]/a[1]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "css-3l9mu9"
+      ],
+      "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[1]/ul[1]/li[3]/a[1]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "css-3l9mu9"
+      ],
+      "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[1]/ul[1]/li[4]/a[1]"
+    },
+    {
+      "text": "Figma Design",
+      "id": null,
+      "classList": [
+        "css-1czkxn0"
+      ],
+      "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[2]/div[1]/ul[1]/li[1]/a[1]"
+    },
+    {
+      "text": "FigJam",
+      "id": null,
+      "classList": [
+        "css-1czkxn0"
+      ],
+      "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[2]/div[1]/ul[1]/li[2]/a[1]"
+    },
+    {
+      "text": "Dev Mode",
+      "id": null,
+      "classList": [
+        "css-1czkxn0"
+      ],
+      "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[2]/div[1]/ul[1]/li[3]/a[1]"
+    },
+    {
+      "text": "Figma Slides",
+      "id": null,
+      "classList": [
+        "css-1czkxn0"
+      ],
+      "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[2]/div[1]/ul[1]/li[4]/a[1]"
+    },
+    {
+      "text": "Release notes",
+      "id": null,
+      "classList": [
+        "css-1czkxn0"
+      ],
+      "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[2]/div[1]/ul[1]/li[5]/a[1]"
+    },
+    {
+      "text": "What’s new",
+      "id": null,
+      "classList": [
+        "css-1czkxn0"
+      ],
+      "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[2]/div[1]/ul[1]/li[6]/a[1]"
+    },
+    {
+      "text": "Downloads",
+      "id": null,
+      "classList": [
+        "css-1czkxn0"
+      ],
+      "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[2]/div[1]/ul[1]/li[7]/a[1]"
+    },
+    {
+      "text": "Pricing",
+      "id": null,
+      "classList": [
+        "css-1czkxn0"
+      ],
+      "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[2]/div[2]/ul[1]/li[1]/a[1]"
+    },
+    {
+      "text": "Enterprise",
+      "id": null,
+      "classList": [
+        "css-1czkxn0"
+      ],
+      "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[2]/div[2]/ul[1]/li[2]/a[1]"
+    },
+    {
+      "text": "Organization",
+      "id": null,
+      "classList": [
+        "css-1czkxn0"
+      ],
+      "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[2]/div[2]/ul[1]/li[3]/a[1]"
+    },
+    {
+      "text": "Professional",
+      "id": null,
+      "classList": [
+        "css-1czkxn0"
+      ],
+      "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[2]/div[2]/ul[1]/li[4]/a[1]"
+    },
+    {
+      "text": "UI design",
+      "id": null,
+      "classList": [
+        "css-1czkxn0"
+      ],
+      "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[3]/div[1]/ul[1]/li[1]/a[1]"
+    },
+    {
+      "text": "UX design",
+      "id": null,
+      "classList": [
+        "css-1czkxn0"
+      ],
+      "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[3]/div[1]/ul[1]/li[2]/a[1]"
+    },
+    {
+      "text": "Wireframing",
+      "id": null,
+      "classList": [
+        "css-1czkxn0"
+      ],
+      "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[3]/div[1]/ul[1]/li[3]/a[1]"
+    },
+    {
+      "text": "Diagramming",
+      "id": null,
+      "classList": [
+        "css-1czkxn0"
+      ],
+      "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[3]/div[1]/ul[1]/li[4]/a[1]"
+    },
+    {
+      "text": "Prototyping",
+      "id": null,
+      "classList": [
+        "css-1czkxn0"
+      ],
+      "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[3]/div[1]/ul[1]/li[5]/a[1]"
+    },
+    {
+      "text": "Brainstorming",
+      "id": null,
+      "classList": [
+        "css-1czkxn0"
+      ],
+      "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[3]/div[1]/ul[1]/li[6]/a[1]"
+    },
+    {
+      "text": "Presentation maker",
+      "id": null,
+      "classList": [
+        "css-1czkxn0"
+      ],
+      "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[3]/div[1]/ul[1]/li[7]/a[1]"
+    },
+    {
+      "text": "Online whiteboard",
+      "id": null,
+      "classList": [
+        "css-1czkxn0"
+      ],
+      "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[3]/div[1]/ul[1]/li[8]/a[1]"
+    },
+    {
+      "text": "Agile",
+      "id": null,
+      "classList": [
+        "css-1czkxn0"
+      ],
+      "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[3]/div[1]/ul[1]/li[9]/a[1]"
+    },
+    {
+      "text": "Strategic planning",
+      "id": null,
+      "classList": [
+        "css-1czkxn0"
+      ],
+      "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[3]/div[1]/ul[1]/li[10]/a[1]"
+    },
+    {
+      "text": "Mind mapping",
+      "id": null,
+      "classList": [
+        "css-1czkxn0"
+      ],
+      "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[3]/div[1]/ul[1]/li[11]/a[1]"
+    },
+    {
+      "text": "Blog",
+      "id": null,
+      "classList": [
+        "css-1czkxn0"
+      ],
+      "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[4]/div[1]/ul[1]/li[1]/a[1]"
+    },
+    {
+      "text": "Best practices",
+      "id": null,
+      "classList": [
+        "css-1czkxn0"
+      ],
+      "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[4]/div[1]/ul[1]/li[2]/a[1]"
+    },
+    {
+      "text": "Color wheel",
+      "id": null,
+      "classList": [
+        "css-1czkxn0"
+      ],
+      "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[4]/div[1]/ul[1]/li[3]/a[1]"
+    },
+    {
+      "text": "Colors",
+      "id": null,
+      "classList": [
+        "css-1czkxn0"
+      ],
+      "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[4]/div[1]/ul[1]/li[4]/a[1]"
+    },
+    {
+      "text": "Color picker",
+      "id": null,
+      "classList": [
+        "css-1czkxn0"
+      ],
+      "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[4]/div[1]/ul[1]/li[5]/a[1]"
+    },
+    {
+      "text": "Templates",
+      "id": null,
+      "classList": [
+        "css-1czkxn0"
+      ],
+      "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[4]/div[1]/ul[1]/li[6]/a[1]"
+    },
+    {
+      "text": "Developers",
+      "id": null,
+      "classList": [
+        "css-1czkxn0"
+      ],
+      "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[4]/div[1]/ul[1]/li[7]/a[1]"
+    },
+    {
+      "text": "Integrations",
+      "id": null,
+      "classList": [
+        "css-1czkxn0"
+      ],
+      "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[4]/div[1]/ul[1]/li[8]/a[1]"
+    },
+    {
+      "text": "Affiliate program",
+      "id": null,
+      "classList": [
+        "css-1czkxn0"
+      ],
+      "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[4]/div[1]/ul[1]/li[9]/a[1]"
+    },
+    {
+      "text": "Resource library",
+      "id": null,
+      "classList": [
+        "css-1czkxn0"
+      ],
+      "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[4]/div[1]/ul[1]/li[10]/a[1]"
+    },
+    {
+      "text": "Reports and insights",
+      "id": null,
+      "classList": [
+        "css-1czkxn0"
+      ],
+      "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[4]/div[1]/ul[1]/li[11]/a[1]"
+    },
+    {
+      "text": "Support",
+      "id": null,
+      "classList": [
+        "css-1czkxn0"
+      ],
+      "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[4]/div[1]/ul[1]/li[12]/a[1]"
+    },
+    {
+      "text": "Status",
+      "id": null,
+      "classList": [
+        "css-1czkxn0"
+      ],
+      "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[4]/div[1]/ul[1]/li[13]/a[1]"
+    },
+    {
+      "text": "Legal and privacy",
+      "id": null,
+      "classList": [
+        "css-1czkxn0"
+      ],
+      "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[4]/div[1]/ul[1]/li[14]/a[1]"
+    },
+    {
+      "text": "Modern slavery statement",
+      "id": null,
+      "classList": [
+        "css-1czkxn0"
+      ],
+      "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[4]/div[1]/ul[1]/li[15]/a[1]"
+    },
+    {
+      "text": "Climate disclosure statement",
+      "id": null,
+      "classList": [
+        "css-1czkxn0"
+      ],
+      "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[4]/div[1]/ul[1]/li[16]/a[1]"
+    },
+    {
+      "text": "Sketch",
+      "id": null,
+      "classList": [
+        "css-1czkxn0"
+      ],
+      "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[5]/div[1]/ul[1]/li[1]/a[1]"
+    },
+    {
+      "text": "Adobe XD",
+      "id": null,
+      "classList": [
+        "css-1czkxn0"
+      ],
+      "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[5]/div[1]/ul[1]/li[2]/a[1]"
+    },
+    {
+      "text": "Framer",
+      "id": null,
+      "classList": [
+        "css-1czkxn0"
+      ],
+      "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[5]/div[1]/ul[1]/li[3]/a[1]"
+    },
+    {
+      "text": "Miro",
+      "id": null,
+      "classList": [
+        "css-1czkxn0"
+      ],
+      "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[5]/div[1]/ul[1]/li[4]/a[1]"
+    },
+    {
+      "text": "About us",
+      "id": null,
+      "classList": [
+        "css-1czkxn0"
+      ],
+      "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[5]/div[2]/ul[1]/li[1]/a[1]"
+    },
+    {
+      "text": "Events",
+      "id": null,
+      "classList": [
+        "css-1czkxn0"
+      ],
+      "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[5]/div[2]/ul[1]/li[2]/a[1]"
+    },
+    {
+      "text": "Customers",
+      "id": null,
+      "classList": [
+        "css-1czkxn0"
+      ],
+      "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[5]/div[2]/ul[1]/li[3]/a[1]"
+    },
+    {
+      "text": "Careers",
+      "id": null,
+      "classList": [
+        "css-1czkxn0"
+      ],
+      "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[5]/div[2]/ul[1]/li[4]/a[1]"
+    },
+    {
+      "text": "English",
+      "id": null,
+      "classList": [
+        "css-16ucm80"
+      ],
+      "xpath": "//*[@id=\":R55el2paula:\"]/li[1]/a[1]"
+    },
+    {
+      "text": "Deutsch",
+      "id": null,
+      "classList": [
+        "css-16ucm80"
+      ],
+      "xpath": "//*[@id=\":R55el2paula:\"]/li[2]/a[1]"
+    },
+    {
+      "text": "Español (España)",
+      "id": null,
+      "classList": [
+        "css-16ucm80"
+      ],
+      "xpath": "//*[@id=\":R55el2paula:\"]/li[3]/a[1]"
+    },
+    {
+      "text": "Español (Latinoamérica)",
+      "id": null,
+      "classList": [
+        "css-16ucm80"
+      ],
+      "xpath": "//*[@id=\":R55el2paula:\"]/li[4]/a[1]"
+    },
+    {
+      "text": "Français",
+      "id": null,
+      "classList": [
+        "css-16ucm80"
+      ],
+      "xpath": "//*[@id=\":R55el2paula:\"]/li[5]/a[1]"
+    },
+    {
+      "text": "Português (Brasil)",
+      "id": null,
+      "classList": [
+        "css-16ucm80"
+      ],
+      "xpath": "//*[@id=\":R55el2paula:\"]/li[6]/a[1]"
+    },
+    {
+      "text": "日本語",
+      "id": null,
+      "classList": [
+        "css-16ucm80"
+      ],
+      "xpath": "//*[@id=\":R55el2paula:\"]/li[7]/a[1]"
+    },
+    {
+      "text": "한국어",
+      "id": null,
+      "classList": [
+        "css-16ucm80"
+      ],
+      "xpath": "//*[@id=\":R55el2paula:\"]/li[8]/a[1]"
+    }
+  ],
+  "p": [
+    {
+      "text": "Skip to main content",
+      "id": null,
+      "classList": [
+        "css-1u7h6tk"
+      ],
+      "xpath": "//*[@id=\"app\"]/a[1]/p[1]"
+    },
+    {
+      "text": "Figma Design",
+      "id": null,
+      "classList": [
+        "nav-highlight",
+        "css-15ggqpl"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-d07e0c782331\"]/div[1]/ul[1]/li[1]/a[1]/div[1]/p[1]"
+    },
+    {
+      "text": "Design and prototype in one place",
+      "id": null,
+      "classList": [
+        "css-2dnu0y"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-d07e0c782331\"]/div[1]/ul[1]/li[1]/a[1]/div[1]/p[2]"
+    },
+    {
+      "text": "FigJam",
+      "id": null,
+      "classList": [
+        "nav-highlight",
+        "css-15ggqpl"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-d07e0c782331\"]/div[1]/ul[1]/li[2]/a[1]/div[1]/p[1]"
+    },
+    {
+      "text": "Collaborate with a digital whiteboard",
+      "id": null,
+      "classList": [
+        "css-2dnu0y"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-d07e0c782331\"]/div[1]/ul[1]/li[2]/a[1]/div[1]/p[2]"
+    },
+    {
+      "text": "Dev Mode",
+      "id": null,
+      "classList": [
+        "nav-highlight",
+        "css-15ggqpl"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-d07e0c782331\"]/div[1]/ul[1]/li[3]/a[1]/div[1]/p[1]"
+    },
+    {
+      "text": "Translate designs into code",
+      "id": null,
+      "classList": [
+        "css-2dnu0y"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-d07e0c782331\"]/div[1]/ul[1]/li[3]/a[1]/div[1]/p[2]"
+    },
+    {
+      "text": "Figma Slides",
+      "id": null,
+      "classList": [
+        "nav-highlight",
+        "css-15ggqpl"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-d07e0c782331\"]/div[1]/ul[1]/li[4]/a[1]/div[1]/p[1]"
+    },
+    {
+      "text": "Co-create presentations",
+      "id": null,
+      "classList": [
+        "css-2dnu0y"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-d07e0c782331\"]/div[1]/ul[1]/li[4]/a[1]/div[1]/p[2]"
+    },
+    {
+      "text": "AI",
+      "id": null,
+      "classList": [
+        "nav-highlight",
+        "css-15ggqpl"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-d07e0c782331\"]/div[1]/ul[1]/li[5]/a[1]/div[1]/p[1]"
+    },
+    {
+      "text": "Explore all Figma AI features",
+      "id": null,
+      "classList": [
+        "css-2dnu0y"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-d07e0c782331\"]/div[1]/ul[1]/li[5]/a[1]/div[1]/p[2]"
+    },
+    {
+      "text": "Downloads",
+      "id": null,
+      "classList": [
+        "nav-highlight",
+        "css-15ggqpl"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-d07e0c782331\"]/div[1]/ul[1]/li[6]/a[1]/div[1]/p[1]"
+    },
+    {
+      "text": "Get the desktop, mobile, and font installer apps",
+      "id": null,
+      "classList": [
+        "css-2dnu0y"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-d07e0c782331\"]/div[1]/ul[1]/li[6]/a[1]/div[1]/p[2]"
+    },
+    {
+      "text": "What’s new",
+      "id": null,
+      "classList": [
+        "nav-highlight",
+        "css-15ggqpl"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-d07e0c782331\"]/div[1]/ul[1]/li[7]/a[1]/div[1]/p[1]"
+    },
+    {
+      "text": "See the latest features and releases",
+      "id": null,
+      "classList": [
+        "css-2dnu0y"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-d07e0c782331\"]/div[1]/ul[1]/li[7]/a[1]/div[1]/p[2]"
+    },
+    {
+      "text": "Use cases",
+      "id": "5751951a1d2d",
+      "classList": [
+        "css-1rg92sm"
+      ],
+      "xpath": "//*[@id=\"5751951a1d2d\"]"
+    },
+    {
+      "text": "Roles",
+      "id": "def1df54cdb2",
+      "classList": [
+        "css-1rg92sm"
+      ],
+      "xpath": "//*[@id=\"def1df54cdb2\"]"
+    },
+    {
+      "text": "Organizations",
+      "id": "23c0553b5be4",
+      "classList": [
+        "css-1rg92sm"
+      ],
+      "xpath": "//*[@id=\"23c0553b5be4\"]"
+    },
+    {
+      "text": "Creator fund",
+      "id": null,
+      "classList": [
+        "nav-highlight",
+        "css-15ggqpl"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-30f59e9839de\"]/div[1]/ul[1]/li[1]/a[1]/div[1]/p[1]"
+    },
+    {
+      "text": "Build and sell what you love",
+      "id": null,
+      "classList": [
+        "css-2dnu0y"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-30f59e9839de\"]/div[1]/ul[1]/li[1]/a[1]/div[1]/p[2]"
+    },
+    {
+      "text": "User groups",
+      "id": null,
+      "classList": [
+        "nav-highlight",
+        "css-15ggqpl"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-30f59e9839de\"]/div[1]/ul[2]/li[1]/a[1]/div[1]/p[1]"
+    },
+    {
+      "text": "Join a local Friends of Figma group",
+      "id": null,
+      "classList": [
+        "css-2dnu0y"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-30f59e9839de\"]/div[1]/ul[2]/li[1]/a[1]/div[1]/p[2]"
+    },
+    {
+      "text": "Events",
+      "id": null,
+      "classList": [
+        "nav-highlight",
+        "css-15ggqpl"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-30f59e9839de\"]/div[1]/ul[3]/li[1]/a[1]/div[1]/p[1]"
+    },
+    {
+      "text": "Learn best practices at virtual events",
+      "id": null,
+      "classList": [
+        "css-2dnu0y"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-30f59e9839de\"]/div[1]/ul[3]/li[1]/a[1]/div[1]/p[2]"
+    },
+    {
+      "text": "Customer stories",
+      "id": null,
+      "classList": [
+        "nav-highlight",
+        "css-15ggqpl"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-30f59e9839de\"]/div[1]/ul[4]/li[1]/a[1]/div[1]/p[1]"
+    },
+    {
+      "text": "Read about leading product teams",
+      "id": null,
+      "classList": [
+        "css-2dnu0y"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-30f59e9839de\"]/div[1]/ul[4]/li[1]/a[1]/div[1]/p[2]"
+    },
+    {
+      "text": "Shortcut: The Figma blog",
+      "id": null,
+      "classList": [
+        "nav-highlight",
+        "css-15ggqpl"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-35621d40dde8\"]/div[1]/ul[1]/li[1]/a[1]/div[1]/p[1]"
+    },
+    {
+      "text": "Stories about how products take shape—and shape our world",
+      "id": null,
+      "classList": [
+        "css-2dnu0y"
+      ],
+      "xpath": "//*[@id=\"nav-dropdown-35621d40dde8\"]/div[1]/ul[1]/li[1]/a[1]/div[1]/p[2]"
+    },
+    {
+      "text": "Get started",
+      "id": "81161637be07",
+      "classList": [
+        "css-1rg92sm"
+      ],
+      "xpath": "//*[@id=\"81161637be07\"]"
+    },
+    {
+      "text": "Learn",
+      "id": "eabaa77f684b",
+      "classList": [
+        "css-1rg92sm"
+      ],
+      "xpath": "//*[@id=\"eabaa77f684b\"]"
+    },
+    {
+      "text": "Design and prototype in one place",
+      "id": null,
+      "classList": [
+        "css-4tutrt"
+      ],
+      "xpath": "//*[@id=\"mobile-dropdown-d07e0c782331\"]/ul[1]/li[1]/a[1]/p[1]"
+    },
+    {
+      "text": "Collaborate with a digital whiteboard",
+      "id": null,
+      "classList": [
+        "css-4tutrt"
+      ],
+      "xpath": "//*[@id=\"mobile-dropdown-d07e0c782331\"]/ul[1]/li[2]/a[1]/p[1]"
+    },
+    {
+      "text": "Translate designs into code",
+      "id": null,
+      "classList": [
+        "css-4tutrt"
+      ],
+      "xpath": "//*[@id=\"mobile-dropdown-d07e0c782331\"]/ul[1]/li[3]/a[1]/p[1]"
+    },
+    {
+      "text": "Use cases",
+      "id": "5751951a1d2d",
+      "classList": [
+        "css-97soez"
+      ],
+      "xpath": "//*[@id=\"5751951a1d2d\"]"
+    },
+    {
+      "text": "Roles",
+      "id": "def1df54cdb2",
+      "classList": [
+        "css-97soez"
+      ],
+      "xpath": "//*[@id=\"def1df54cdb2\"]"
+    },
+    {
+      "text": "Organizations",
+      "id": "23c0553b5be4",
+      "classList": [
+        "css-97soez"
+      ],
+      "xpath": "//*[@id=\"23c0553b5be4\"]"
+    },
+    {
+      "text": "Get started",
+      "id": "81161637be07",
+      "classList": [
+        "css-97soez"
+      ],
+      "xpath": "//*[@id=\"81161637be07\"]"
+    },
+    {
+      "text": "Learn",
+      "id": "eabaa77f684b",
+      "classList": [
+        "css-97soez"
+      ],
+      "xpath": "//*[@id=\"eabaa77f684b\"]"
+    },
+    {
+      "text": "Figma helps design and development teams build great products, together.",
+      "id": null,
+      "classList": [
+        "css-121apqj"
+      ],
+      "xpath": "//*[@id=\"main\"]/section[1]/div[1]/div[1]/div[2]/p[1]"
+    },
+    {
+      "text": "Design and refine products with your team, in one shared design file.",
+      "id": null,
+      "classList": [
+        "css-wix3k2"
+      ],
+      "xpath": "//*[@id=\"home-hero-design-panel\"]/p[1]"
+    },
+    {
+      "text": "Design and refine products with your team, in one shared design file.",
+      "id": null,
+      "classList": [
+        "css-wix3k2"
+      ],
+      "xpath": "//*[@id=\"home-hero-build-panel\"]/p[1]"
+    },
+    {
+      "text": "Design and refine products with your team, in one shared design file.",
+      "id": null,
+      "classList": [
+        "css-wix3k2"
+      ],
+      "xpath": "//*[@id=\"home-hero-jam-panel\"]/p[1]"
+    },
+    {
+      "text": "Design and refine products with your team, in one shared design file.",
+      "id": null,
+      "classList": [
+        "css-wix3k2"
+      ],
+      "xpath": "//*[@id=\"home-hero-present-panel\"]/p[1]"
+    },
+    {
+      "text": "Nearly everything that designers and developers need is available in Figma.",
+      "id": null,
+      "classList": [],
+      "xpath": "//*[@id=\"main\"]/section[2]/div[1]/figure[1]/div[1]/blockquote[1]/div[1]/p[1]"
+    },
+    {
+      "text": "Diana Mounter\nHead of Design",
+      "id": null,
+      "classList": [
+        "css-cbs14c"
+      ],
+      "xpath": "//*[@id=\"main\"]/section[2]/div[1]/figure[1]/figcaption[1]/div[1]/div[2]/p[1]"
+    },
+    {
+      "text": "Explore your ideas freely and iterate quickly.",
+      "id": null,
+      "classList": [
+        "css-18geb68"
+      ],
+      "xpath": "//*[@id=\"main\"]/section[4]/div[1]/div[1]/p[1]"
+    },
+    {
+      "text": "Instantly create mockups to explore a bigger option space.",
+      "id": null,
+      "classList": [
+        "css-fwo8tx"
+      ],
+      "xpath": "//*[@id=\"drawer-content-:R1jakinnmqpaula:\"]/p[1]"
+    },
+    {
+      "text": "Make designs that automatically adjust to layout size—no more manually resizing.",
+      "id": null,
+      "classList": [
+        "css-fwo8tx"
+      ],
+      "xpath": "//*[@id=\"drawer-content-:R2jakinnmqpaula:\"]/p[1]"
+    },
+    {
+      "text": "Save time and effort by batch editing multiple frames at once, whether in a system or freeform. ",
+      "id": null,
+      "classList": [
+        "css-fwo8tx"
+      ],
+      "xpath": "//*[@id=\"drawer-content-:R3jakinnmqpaula:\"]/p[1]"
+    },
+    {
+      "text": "Automatically create realistic prototypes for quick testing of your flows and interactions.",
+      "id": null,
+      "classList": [
+        "css-fwo8tx"
+      ],
+      "xpath": "//*[@id=\"drawer-content-:R4jakinnmqpaula:\"]/p[1]"
+    },
+    {
+      "text": "Present playable, high-fidelity prototypes directly from your deck. ",
+      "id": null,
+      "classList": [
+        "css-fwo8tx"
+      ],
+      "xpath": "//*[@id=\"drawer-content-:R5jakinnmqpaula:\"]/p[1]"
+    },
+    {
+      "text": "Easily translate designs into code with a workflow built for developers.",
+      "id": null,
+      "classList": [
+        "css-18geb68"
+      ],
+      "xpath": "//*[@id=\"main\"]/section[5]/div[1]/div[1]/p[1]"
+    },
+    {
+      "text": "1/4",
+      "id": null,
+      "classList": [
+        "css-9spi02"
+      ],
+      "xpath": "//*[@id=\":R2kmnnmqpaula:\"]/div[1]/p[1]"
+    },
+    {
+      "text": "Streamline the product development process with a design system that’s aligned across design and code.",
+      "id": null,
+      "classList": [
+        "css-uubitr"
+      ],
+      "xpath": "//*[@id=\":R2kmnnmqpaula:\"]/div[2]/div[1]/div[1]/div[1]/div[1]/p[1]"
+    },
+    {
+      "text": "Bring your component code into Dev Mode so developers get the right code, every time.",
+      "id": null,
+      "classList": [
+        "css-uubitr"
+      ],
+      "xpath": "//*[@id=\":R2kmnnmqpaula:\"]/div[2]/div[1]/div[1]/div[2]/div[1]/p[1]"
+    },
+    {
+      "text": "Select and inspect a specific design in Dev Mode, then dig into the details in Focus View so you know exactly what to build.",
+      "id": null,
+      "classList": [
+        "css-uubitr"
+      ],
+      "xpath": "//*[@id=\":R2kmnnmqpaula:\"]/div[2]/div[1]/div[1]/div[3]/div[1]/p[1]"
+    },
+    {
+      "text": "Stay informed with clear design status updates on what’s changed, completed, or ready to build—all in Dev Mode.",
+      "id": null,
+      "classList": [
+        "css-uubitr"
+      ],
+      "xpath": "//*[@id=\":R2kmnnmqpaula:\"]/div[2]/div[1]/div[1]/div[4]/div[1]/p[1]"
+    },
+    {
+      "text": "Everything your team needs to brainstorm, design, and build.",
+      "id": null,
+      "classList": [
+        "css-18geb68"
+      ],
+      "xpath": "//*[@id=\"main\"]/section[6]/div[1]/div[1]/p[1]"
+    },
+    {
+      "text": "Everyone can collaborate seamlessly in one shared file. Designers, developers, copywriters—even external contractors and clients.",
+      "id": null,
+      "classList": [
+        "css-uubitr"
+      ],
+      "xpath": "//*[@id=\"main\"]/section[6]/div[1]/div[3]/div[1]/p[1]"
+    },
+    {
+      "text": "Communicate via audio or chat to connect quickly within your file. Gather and keep track of feedback with comments.",
+      "id": null,
+      "classList": [
+        "css-uubitr"
+      ],
+      "xpath": "//*[@id=\"main\"]/section[6]/div[1]/div[3]/div[2]/p[1]"
+    },
+    {
+      "text": "Every discipline has a centralized location to view, understand, and contribute to the work.",
+      "id": null,
+      "classList": [],
+      "xpath": "//*[@id=\"main\"]/section[7]/div[1]/figure[1]/div[1]/blockquote[1]/div[1]/p[1]"
+    },
+    {
+      "text": "Levon Sharrow\nDirector of Experience Design",
+      "id": null,
+      "classList": [
+        "css-cbs14c"
+      ],
+      "xpath": "//*[@id=\"main\"]/section[7]/div[1]/figure[1]/figcaption[1]/div[1]/div[2]/p[1]"
+    }
+  ],
+  "button": [
+    {
+      "text": "Products",
+      "id": null,
+      "classList": [
+        "dropdown-label",
+        "css-1qp51n2"
+      ],
+      "xpath": "//*[@id=\"app\"]/div[1]/header[1]/div[1]/div[1]/nav[1]/ul[1]/li[1]/div[1]/button[1]"
+    },
+    {
+      "text": "Solutions",
+      "id": null,
+      "classList": [
+        "dropdown-label",
+        "css-1qp51n2"
+      ],
+      "xpath": "//*[@id=\"app\"]/div[1]/header[1]/div[1]/div[1]/nav[1]/ul[1]/li[2]/div[1]/button[1]"
+    },
+    {
+      "text": "Community",
+      "id": null,
+      "classList": [
+        "dropdown-label",
+        "css-1qp51n2"
+      ],
+      "xpath": "//*[@id=\"app\"]/div[1]/header[1]/div[1]/div[1]/nav[1]/ul[1]/li[3]/div[1]/button[1]"
+    },
+    {
+      "text": "Resources",
+      "id": null,
+      "classList": [
+        "dropdown-label",
+        "css-1qp51n2"
+      ],
+      "xpath": "//*[@id=\"app\"]/div[1]/header[1]/div[1]/div[1]/nav[1]/ul[1]/li[4]/div[1]/button[1]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "css-1hd7viq"
+      ],
+      "xpath": "//*[@id=\"app\"]/div[2]/header[1]/div[1]/div[1]/nav[1]/button[1]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "css-1omwlil"
+      ],
+      "xpath": "//*[@id=\"mobile-navigation-menu\"]/div[2]/div[1]/button[1]"
+    },
+    {
+      "text": "Products",
+      "id": null,
+      "classList": [
+        "dropdown-label",
+        "css-19uvwhq"
+      ],
+      "xpath": "//*[@id=\"mobile-navigation-menu\"]/div[2]/nav[1]/ul[1]/div[1]/li[1]/div[1]/button[1]"
+    },
+    {
+      "text": "Solutions",
+      "id": null,
+      "classList": [
+        "dropdown-label",
+        "css-19uvwhq"
+      ],
+      "xpath": "//*[@id=\"mobile-navigation-menu\"]/div[2]/nav[1]/ul[1]/div[1]/li[2]/div[1]/button[1]"
+    },
+    {
+      "text": "Community",
+      "id": null,
+      "classList": [
+        "dropdown-label",
+        "css-19uvwhq"
+      ],
+      "xpath": "//*[@id=\"mobile-navigation-menu\"]/div[2]/nav[1]/ul[1]/div[1]/li[3]/div[1]/button[1]"
+    },
+    {
+      "text": "Resources",
+      "id": null,
+      "classList": [
+        "dropdown-label",
+        "css-19uvwhq"
+      ],
+      "xpath": "//*[@id=\"mobile-navigation-menu\"]/div[2]/nav[1]/ul[1]/div[1]/li[4]/div[1]/button[1]"
+    },
+    {
+      "text": "Design",
+      "id": "home-hero-design-tab",
+      "classList": [
+        "css-1s1ds4q"
+      ],
+      "xpath": "//*[@id=\"home-hero-design-tab\"]"
+    },
+    {
+      "text": "Build",
+      "id": "home-hero-build-tab",
+      "classList": [
+        "css-zukx7r"
+      ],
+      "xpath": "//*[@id=\"home-hero-build-tab\"]"
+    },
+    {
+      "text": "Jam",
+      "id": "home-hero-jam-tab",
+      "classList": [
+        "css-po4a5o"
+      ],
+      "xpath": "//*[@id=\"home-hero-jam-tab\"]"
+    },
+    {
+      "text": "Present",
+      "id": "home-hero-present-tab",
+      "classList": [
+        "css-1e9778p"
+      ],
+      "xpath": "//*[@id=\"home-hero-present-tab\"]"
+    },
+    {
+      "text": "Generate simple UI with AI",
+      "id": "drawer-title-:R1jakinnmqpaula:",
+      "classList": [
+        "css-5t5ouy"
+      ],
+      "xpath": "//*[@id=\"drawer-title-:R1jakinnmqpaula:\"]"
+    },
+    {
+      "text": "Design consistently with Auto Layout",
+      "id": "drawer-title-:R2jakinnmqpaula:",
+      "classList": [
+        "css-rsgv5x"
+      ],
+      "xpath": "//*[@id=\"drawer-title-:R2jakinnmqpaula:\"]"
+    },
+    {
+      "text": "Scale your edits instantly",
+      "id": "drawer-title-:R3jakinnmqpaula:",
+      "classList": [
+        "css-rsgv5x"
+      ],
+      "xpath": "//*[@id=\"drawer-title-:R3jakinnmqpaula:\"]"
+    },
+    {
+      "text": "Make prototypes with AI",
+      "id": "drawer-title-:R4jakinnmqpaula:",
+      "classList": [
+        "css-rsgv5x"
+      ],
+      "xpath": "//*[@id=\"drawer-title-:R4jakinnmqpaula:\"]"
+    },
+    {
+      "text": "Embed prototypes in your presentations",
+      "id": "drawer-title-:R5jakinnmqpaula:",
+      "classList": [
+        "css-rsgv5x"
+      ],
+      "xpath": "//*[@id=\"drawer-title-:R5jakinnmqpaula:\"]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "css-l5v9cg"
+      ],
+      "xpath": "//*[@id=\":R2kmnnmqpaula:\"]/div[1]/div[1]/button[1]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "css-l5v9cg"
+      ],
+      "xpath": "//*[@id=\":R2kmnnmqpaula:\"]/div[1]/div[1]/button[2]"
+    },
+    {
+      "text": "English",
+      "id": null,
+      "classList": [
+        "css-xhgx56"
+      ],
+      "xpath": "//*[@id=\"app\"]/footer[1]/div[1]/div[6]/div[1]/div[1]/button[1]"
+    }
+  ]
+}

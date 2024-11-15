@@ -1,0 +1,1218 @@
+{
+  "div": [
+    {
+      "text": "Sign up for Figma\n\nContinue with Google\n\nor\n\nEMAIL\nPASSWORD\nCreate account\n\nBy clicking \"Create account\" or \"Continue with Google\", you agree to the Figma TOS and Privacy Policy.\n\nUse single sign-on\n\nAlready have an account?Log in",
+      "id": "react-page",
+      "classList": [],
+      "xpath": "//*[@id=\"react-page\"]"
+    },
+    {
+      "text": "Sign up for Figma\n\nContinue with Google\n\nor\n\nEMAIL\nPASSWORD\nCreate account\n\nBy clicking \"Create account\" or \"Continue with Google\", you agree to the Figma TOS and Privacy Policy.\n\nUse single sign-on\n\nAlready have an account?Log in",
+      "id": null,
+      "classList": [],
+      "xpath": "//*[@id=\"react-page\"]/div[1]"
+    },
+    {
+      "text": "Sign up for Figma\n\nContinue with Google\n\nor\n\nEMAIL\nPASSWORD\nCreate account\n\nBy clicking \"Create account\" or \"Continue with Google\", you agree to the Figma TOS and Privacy Policy.\n\nUse single sign-on\n\nAlready have an account?Log in",
+      "id": null,
+      "classList": [
+        "simple_page--page--U--BG",
+        "auth_app_view--brand--rj83K",
+        "auth_branding--brand--WeCuU",
+        "auth_branding--figmaSans--pBP44",
+        "auth_2024_brand_updates--figmaSans--TbNxo"
+      ],
+      "xpath": "//*[@id=\"react-page\"]/div[1]/div[1]"
+    },
+    {
+      "text": "Sign up for Figma\n\nContinue with Google\n\nor\n\nEMAIL\nPASSWORD\nCreate account\n\nBy clicking \"Create account\" or \"Continue with Google\", you agree to the Figma TOS and Privacy Policy.\n\nUse single sign-on\n\nAlready have an account?Log in",
+      "id": null,
+      "classList": [
+        "auth_app_view--authView--vSClT",
+        "auth_app_view--brand--rj83K",
+        "auth_branding--brand--WeCuU",
+        "auth_branding--figmaSans--pBP44",
+        "auth_2024_brand_updates--figmaSans--TbNxo",
+        "auth_app_view--fullscreen--gxspS"
+      ],
+      "xpath": "//*[@id=\"react-page\"]/div[1]/div[1]/div[1]"
+    },
+    {
+      "text": "Sign up for Figma\n\nContinue with Google\n\nor\n\nEMAIL\nPASSWORD\nCreate account\n\nBy clicking \"Create account\" or \"Continue with Google\", you agree to the Figma TOS and Privacy Policy.\n\nUse single sign-on\n\nAlready have an account?Log in",
+      "id": null,
+      "classList": [],
+      "xpath": "//*[@id=\"react-page\"]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "text": "Sign up for Figma",
+      "id": null,
+      "classList": [
+        "auth_form--topMatter--M-mkE"
+      ],
+      "xpath": "//*[@id=\"auth-view-page\"]/div[1]"
+    },
+    {
+      "text": "Continue with Google",
+      "id": null,
+      "classList": [
+        "landing_form--googleButtonInner--LUmAu"
+      ],
+      "xpath": "//*[@id=\"auth-view-page\"]/button[1]/span[1]/div[1]"
+    },
+    {
+      "text": "EMAIL",
+      "id": null,
+      "classList": [
+        "branded_inputs_2024_brand_update--inputContainer--Y3h0q"
+      ],
+      "xpath": "//*[@id=\"auth-view-page\"]/div[2]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [],
+      "xpath": "//*[@id=\"auth-view-page\"]/div[3]"
+    },
+    {
+      "text": "PASSWORD",
+      "id": null,
+      "classList": [
+        "branded_inputs_2024_brand_update--inputContainer--Y3h0q"
+      ],
+      "xpath": "//*[@id=\"auth-view-page\"]/div[4]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [],
+      "xpath": "//*[@id=\"auth-view-page\"]/div[5]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [],
+      "xpath": "//*[@id=\"auth-view-page\"]/div[6]"
+    },
+    {
+      "text": "By clicking \"Create account\" or \"Continue with Google\", you agree to the Figma TOS and Privacy Policy.",
+      "id": null,
+      "classList": [
+        "sign_in_and_up_2024_brand_updates--termsWrapper--C3SZo",
+        "auth_2024_brand_updates--text--R2XPq"
+      ],
+      "xpath": "//*[@id=\"auth-view-page\"]/div[7]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [],
+      "xpath": "//*[@id=\"auth-view-page\"]/div[7]/div[1]"
+    },
+    {
+      "text": "Use single sign-on\n\nAlready have an account?Log in",
+      "id": null,
+      "classList": [
+        "sign_in_and_up--footer--ZRvf2",
+        "auth_view--footer--E0jsP"
+      ],
+      "xpath": "//*[@id=\"auth-view-page\"]/div[8]"
+    },
+    {
+      "text": "Use single sign-on",
+      "id": null,
+      "classList": [
+        "sign_in_and_up_2024_brand_updates--footerButtonRow--um51g",
+        "auth_view--footerButtonRow--X82kF",
+        "auth_2024_brand_updates--text--R2XPq",
+        "auth_2024_brand_updates--innerLink--5PUwl"
+      ],
+      "xpath": "//*[@id=\"auth-view-page\"]/div[8]/div[1]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [],
+      "xpath": "//*[@id=\"auth-view-page\"]/div[8]/div[2]"
+    },
+    {
+      "text": "Already have an account?Log in",
+      "id": null,
+      "classList": [
+        "sign_in_and_up_2024_brand_updates--footerRow--8GwFF",
+        "auth_view--footerButtonRow--X82kF",
+        "auth_2024_brand_updates--text--R2XPq",
+        "auth_2024_brand_updates--innerLink--5PUwl"
+      ],
+      "xpath": "//*[@id=\"auth-view-page\"]/div[8]/div[3]"
+    },
+    {
+      "text": "Already have an account?Log in",
+      "id": null,
+      "classList": [
+        "sign_in_and_up_2024_brand_updates--switchFormText--EsEyE",
+        "auth_view--footerText--M9q2W",
+        "auth_2024_brand_updates--text--R2XPq"
+      ],
+      "xpath": "//*[@id=\"auth-view-page\"]/div[8]/div[3]/div[1]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "flash_view--flashes--laY71"
+      ],
+      "xpath": "//*[@id=\"react-page\"]/div[1]/div[1]/div[2]"
+    },
+    {
+      "text": "\n  \n    \n\n  \n    \n      \n        \n        \n      \n      \n        \n      \n      \n        \n        \n      \n      \n      \n        \n        \n      \n      \n        \n        \n      \n      \n        \n        \n      \n      \n        \n      \n      \n        \n        \n      \n      \n        \n        \n      \n      \n        \n        \n      \n      \n        \n        \n      \n    \n\n\n    \n\n\n          \n            \n          \n\n\n\n      \n\n        \n\n          \n            \n\n\n                  \n\n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                  \n\n            \n          \n        \n\n         \n\n\n      \n    \n  \n\n\n\n\n\n    \n      window.ENTRY_POINT = document.currentScript.dataset.entrypoint\n    \n\n    \n\n      \n    window['sentryConfig'] = {\n    }\n  \n\n\n      \n      \n      \n      \n      \n      \n\n  \n\n",
+      "id": null,
+      "classList": [
+        "file-browser-loading-page-container"
+      ],
+      "xpath": "/html/body/div[2]"
+    },
+    {
+      "text": "\n    \n\n  \n    \n      \n        \n        \n      \n      \n        \n      \n      \n        \n        \n      \n      \n      \n        \n        \n      \n      \n        \n        \n      \n      \n        \n        \n      \n      \n        \n      \n      \n        \n        \n      \n      \n        \n        \n      \n      \n        \n        \n      \n      \n        \n        \n      \n    \n\n\n    \n\n\n          \n            \n          \n\n\n\n      \n\n        \n\n          \n            \n\n\n                  \n\n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                  \n\n            \n          \n        \n\n         \n\n\n      \n    \n  \n",
+      "id": "filebrowser-loading-page",
+      "classList": [
+        "fb-page-layout",
+        "hidden",
+        "fadeOut"
+      ],
+      "xpath": "//*[@id=\"filebrowser-loading-page\"]"
+    },
+    {
+      "text": null,
+      "id": "filebrowser-loading-progress-bar",
+      "classList": [],
+      "xpath": "//*[@id=\"filebrowser-loading-progress-bar\"]"
+    },
+    {
+      "text": "\n    \n      \n        \n        \n      \n      \n        \n      \n      \n        \n        \n      \n      \n      \n        \n        \n      \n      \n        \n        \n      \n      \n        \n        \n      \n      \n        \n      \n      \n        \n        \n      \n      \n        \n        \n      \n      \n        \n        \n      \n      \n        \n        \n      \n    \n\n\n    \n\n\n          \n            \n          \n\n\n\n      \n\n        \n\n          \n            \n\n\n                  \n\n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                  \n\n            \n          \n        \n\n         \n\n\n      \n    \n  ",
+      "id": null,
+      "classList": [
+        "fb-flex-row"
+      ],
+      "xpath": "//*[@id=\"filebrowser-loading-page\"]/div[2]"
+    },
+    {
+      "text": "\n      \n        \n        \n      \n      \n        \n      \n      \n        \n        \n      \n      \n      \n        \n        \n      \n      \n        \n        \n      \n      \n        \n        \n      \n      \n        \n      \n      \n        \n        \n      \n      \n        \n        \n      \n      \n        \n        \n      \n      \n        \n        \n      \n    ",
+      "id": "filebrowser-loading-sidebar",
+      "classList": [
+        "fb-sidebar"
+      ],
+      "xpath": "//*[@id=\"filebrowser-loading-sidebar\"]"
+    },
+    {
+      "text": "\n        \n        \n      ",
+      "id": null,
+      "classList": [
+        "fb-sidebar-account-and-notifications"
+      ],
+      "xpath": "//*[@id=\"filebrowser-loading-sidebar\"]/div[1]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "fb-circle-24",
+        "fb-shrink-0"
+      ],
+      "xpath": "//*[@id=\"filebrowser-loading-sidebar\"]/div[1]/div[1]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "fb-rectangle-16",
+        "fb-width-120"
+      ],
+      "xpath": "//*[@id=\"filebrowser-loading-sidebar\"]/div[1]/div[2]"
+    },
+    {
+      "text": "\n        \n      ",
+      "id": null,
+      "classList": [
+        "fb-sidebar-searchbar"
+      ],
+      "xpath": "//*[@id=\"filebrowser-loading-sidebar\"]/div[2]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "fb-rectangle-32",
+        "fb-width-full"
+      ],
+      "xpath": "//*[@id=\"filebrowser-loading-sidebar\"]/div[2]/div[1]"
+    },
+    {
+      "text": "\n        \n        \n      ",
+      "id": null,
+      "classList": [
+        "fb-sidebar-row"
+      ],
+      "xpath": "//*[@id=\"filebrowser-loading-sidebar\"]/div[3]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "fb-rectangle-16",
+        "fb-width-16",
+        "fb-shrink-0"
+      ],
+      "xpath": "//*[@id=\"filebrowser-loading-sidebar\"]/div[3]/div[1]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "fb-rectangle-16",
+        "fb-width-70"
+      ],
+      "xpath": "//*[@id=\"filebrowser-loading-sidebar\"]/div[3]/div[2]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "fb-divider"
+      ],
+      "xpath": "//*[@id=\"filebrowser-loading-sidebar\"]/div[4]"
+    },
+    {
+      "text": "\n        \n        \n      ",
+      "id": null,
+      "classList": [
+        "fb-sidebar-row"
+      ],
+      "xpath": "//*[@id=\"filebrowser-loading-sidebar\"]/div[5]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "fb-circle-16"
+      ],
+      "xpath": "//*[@id=\"filebrowser-loading-sidebar\"]/div[5]/div[1]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "fb-rectangle-16",
+        "fb-width-115"
+      ],
+      "xpath": "//*[@id=\"filebrowser-loading-sidebar\"]/div[5]/div[2]"
+    },
+    {
+      "text": "\n        \n        \n      ",
+      "id": null,
+      "classList": [
+        "fb-sidebar-row"
+      ],
+      "xpath": "//*[@id=\"filebrowser-loading-sidebar\"]/div[6]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "fb-rectangle-16",
+        "fb-width-16",
+        "fb-shrink-0"
+      ],
+      "xpath": "//*[@id=\"filebrowser-loading-sidebar\"]/div[6]/div[1]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "fb-rectangle-16",
+        "fb-width-70"
+      ],
+      "xpath": "//*[@id=\"filebrowser-loading-sidebar\"]/div[6]/div[2]"
+    },
+    {
+      "text": "\n        \n        \n      ",
+      "id": null,
+      "classList": [
+        "fb-sidebar-row"
+      ],
+      "xpath": "//*[@id=\"filebrowser-loading-sidebar\"]/div[7]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "fb-rectangle-16",
+        "fb-width-16",
+        "fb-shrink-0"
+      ],
+      "xpath": "//*[@id=\"filebrowser-loading-sidebar\"]/div[7]/div[1]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "fb-rectangle-16",
+        "fb-width-100"
+      ],
+      "xpath": "//*[@id=\"filebrowser-loading-sidebar\"]/div[7]/div[2]"
+    },
+    {
+      "text": "\n        \n      ",
+      "id": null,
+      "classList": [
+        "fb-sidebar-row"
+      ],
+      "xpath": "//*[@id=\"filebrowser-loading-sidebar\"]/div[8]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "fb-rectangle-16",
+        "fb-width-60"
+      ],
+      "xpath": "//*[@id=\"filebrowser-loading-sidebar\"]/div[8]/div[1]"
+    },
+    {
+      "text": "\n        \n        \n      ",
+      "id": null,
+      "classList": [
+        "fb-sidebar-row"
+      ],
+      "xpath": "//*[@id=\"filebrowser-loading-sidebar\"]/div[9]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "fb-rectangle-16",
+        "fb-width-16",
+        "fb-shrink-0"
+      ],
+      "xpath": "//*[@id=\"filebrowser-loading-sidebar\"]/div[9]/div[1]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "fb-rectangle-16",
+        "fb-width-100"
+      ],
+      "xpath": "//*[@id=\"filebrowser-loading-sidebar\"]/div[9]/div[2]"
+    },
+    {
+      "text": "\n        \n        \n      ",
+      "id": null,
+      "classList": [
+        "fb-sidebar-row"
+      ],
+      "xpath": "//*[@id=\"filebrowser-loading-sidebar\"]/div[10]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "fb-rectangle-16",
+        "fb-width-16",
+        "fb-shrink-0"
+      ],
+      "xpath": "//*[@id=\"filebrowser-loading-sidebar\"]/div[10]/div[1]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "fb-rectangle-16",
+        "fb-width-80"
+      ],
+      "xpath": "//*[@id=\"filebrowser-loading-sidebar\"]/div[10]/div[2]"
+    },
+    {
+      "text": "\n        \n        \n      ",
+      "id": null,
+      "classList": [
+        "fb-sidebar-row"
+      ],
+      "xpath": "//*[@id=\"filebrowser-loading-sidebar\"]/div[11]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "fb-rectangle-16",
+        "fb-width-16",
+        "fb-shrink-0"
+      ],
+      "xpath": "//*[@id=\"filebrowser-loading-sidebar\"]/div[11]/div[1]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "fb-rectangle-16",
+        "fb-width-120"
+      ],
+      "xpath": "//*[@id=\"filebrowser-loading-sidebar\"]/div[11]/div[2]"
+    },
+    {
+      "text": "\n        \n        \n      ",
+      "id": null,
+      "classList": [
+        "fb-sidebar-row"
+      ],
+      "xpath": "//*[@id=\"filebrowser-loading-sidebar\"]/div[12]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "fb-rectangle-16",
+        "fb-width-16",
+        "fb-shrink-0"
+      ],
+      "xpath": "//*[@id=\"filebrowser-loading-sidebar\"]/div[12]/div[1]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "fb-rectangle-16",
+        "fb-width-105"
+      ],
+      "xpath": "//*[@id=\"filebrowser-loading-sidebar\"]/div[12]/div[2]"
+    },
+    {
+      "text": "\n\n\n          \n            \n          \n\n\n\n      \n\n        \n\n          \n            \n\n\n                  \n\n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                  \n\n            \n          \n        \n\n         \n\n\n      \n    ",
+      "id": null,
+      "classList": [
+        "fb-page"
+      ],
+      "xpath": "//*[@id=\"filebrowser-loading-page\"]/div[2]/div[2]"
+    },
+    {
+      "text": "\n            \n          ",
+      "id": null,
+      "classList": [
+        "fb-toolbar-48"
+      ],
+      "xpath": "//*[@id=\"filebrowser-loading-page\"]/div[2]/div[2]/div[1]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "fb-rectangle-16",
+        "fb-width-120"
+      ],
+      "xpath": "//*[@id=\"filebrowser-loading-page\"]/div[2]/div[2]/div[1]/div[1]"
+    },
+    {
+      "text": "\n\n        \n\n          \n            \n\n\n                  \n\n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                  \n\n            \n          \n        \n\n         \n\n\n      ",
+      "id": null,
+      "classList": [
+        "fb-page-content-columns"
+      ],
+      "xpath": "//*[@id=\"filebrowser-loading-page\"]/div[2]/div[2]/div[2]"
+    },
+    {
+      "text": "\n\n          \n            \n\n\n                  \n\n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                  \n\n            \n          \n        ",
+      "id": null,
+      "classList": [
+        "fb-page-content"
+      ],
+      "xpath": "//*[@id=\"filebrowser-loading-page\"]/div[2]/div[2]/div[2]/div[1]"
+    },
+    {
+      "text": "\n            \n\n\n                  \n\n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                  \n\n            \n          ",
+      "id": "loading-content-pane",
+      "classList": [],
+      "xpath": "//*[@id=\"loading-content-pane\"]"
+    },
+    {
+      "text": "\n\n\n                  \n\n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                  \n\n            ",
+      "id": null,
+      "classList": [
+        "fb-fading-content"
+      ],
+      "xpath": "//*[@id=\"loading-content-pane\"]/div[1]"
+    },
+    {
+      "text": "\n\n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                      \n                        \n                        \n                      \n                  ",
+      "id": null,
+      "classList": [
+        "fb-tile-grid",
+        "fb-tile-grid-top-padding"
+      ],
+      "xpath": "//*[@id=\"loading-content-pane\"]/div[1]/div[1]"
+    },
+    {
+      "text": "\n                        \n                        \n                      ",
+      "id": null,
+      "classList": [
+        "fb-file-tile"
+      ],
+      "xpath": "//*[@id=\"loading-content-pane\"]/div[1]/div[1]/div[1]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "fb-file-thumbnail"
+      ],
+      "xpath": "//*[@id=\"loading-content-pane\"]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "fb-rectangle-16",
+        "fb-width-120"
+      ],
+      "xpath": "//*[@id=\"loading-content-pane\"]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "text": "\n                        \n                        \n                      ",
+      "id": null,
+      "classList": [
+        "fb-file-tile"
+      ],
+      "xpath": "//*[@id=\"loading-content-pane\"]/div[1]/div[1]/div[2]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "fb-file-thumbnail"
+      ],
+      "xpath": "//*[@id=\"loading-content-pane\"]/div[1]/div[1]/div[2]/div[1]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "fb-rectangle-16",
+        "fb-width-120"
+      ],
+      "xpath": "//*[@id=\"loading-content-pane\"]/div[1]/div[1]/div[2]/div[2]"
+    },
+    {
+      "text": "\n                        \n                        \n                      ",
+      "id": null,
+      "classList": [
+        "fb-file-tile"
+      ],
+      "xpath": "//*[@id=\"loading-content-pane\"]/div[1]/div[1]/div[3]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "fb-file-thumbnail"
+      ],
+      "xpath": "//*[@id=\"loading-content-pane\"]/div[1]/div[1]/div[3]/div[1]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "fb-rectangle-16",
+        "fb-width-120"
+      ],
+      "xpath": "//*[@id=\"loading-content-pane\"]/div[1]/div[1]/div[3]/div[2]"
+    },
+    {
+      "text": "\n                        \n                        \n                      ",
+      "id": null,
+      "classList": [
+        "fb-file-tile"
+      ],
+      "xpath": "//*[@id=\"loading-content-pane\"]/div[1]/div[1]/div[4]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "fb-file-thumbnail"
+      ],
+      "xpath": "//*[@id=\"loading-content-pane\"]/div[1]/div[1]/div[4]/div[1]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "fb-rectangle-16",
+        "fb-width-120"
+      ],
+      "xpath": "//*[@id=\"loading-content-pane\"]/div[1]/div[1]/div[4]/div[2]"
+    },
+    {
+      "text": "\n                        \n                        \n                      ",
+      "id": null,
+      "classList": [
+        "fb-file-tile"
+      ],
+      "xpath": "//*[@id=\"loading-content-pane\"]/div[1]/div[1]/div[5]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "fb-file-thumbnail"
+      ],
+      "xpath": "//*[@id=\"loading-content-pane\"]/div[1]/div[1]/div[5]/div[1]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "fb-rectangle-16",
+        "fb-width-120"
+      ],
+      "xpath": "//*[@id=\"loading-content-pane\"]/div[1]/div[1]/div[5]/div[2]"
+    },
+    {
+      "text": "\n                        \n                        \n                      ",
+      "id": null,
+      "classList": [
+        "fb-file-tile"
+      ],
+      "xpath": "//*[@id=\"loading-content-pane\"]/div[1]/div[1]/div[6]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "fb-file-thumbnail"
+      ],
+      "xpath": "//*[@id=\"loading-content-pane\"]/div[1]/div[1]/div[6]/div[1]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "fb-rectangle-16",
+        "fb-width-120"
+      ],
+      "xpath": "//*[@id=\"loading-content-pane\"]/div[1]/div[1]/div[6]/div[2]"
+    },
+    {
+      "text": "\n                        \n                        \n                      ",
+      "id": null,
+      "classList": [
+        "fb-file-tile"
+      ],
+      "xpath": "//*[@id=\"loading-content-pane\"]/div[1]/div[1]/div[7]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "fb-file-thumbnail"
+      ],
+      "xpath": "//*[@id=\"loading-content-pane\"]/div[1]/div[1]/div[7]/div[1]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "fb-rectangle-16",
+        "fb-width-120"
+      ],
+      "xpath": "//*[@id=\"loading-content-pane\"]/div[1]/div[1]/div[7]/div[2]"
+    },
+    {
+      "text": "\n                        \n                        \n                      ",
+      "id": null,
+      "classList": [
+        "fb-file-tile"
+      ],
+      "xpath": "//*[@id=\"loading-content-pane\"]/div[1]/div[1]/div[8]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "fb-file-thumbnail"
+      ],
+      "xpath": "//*[@id=\"loading-content-pane\"]/div[1]/div[1]/div[8]/div[1]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "fb-rectangle-16",
+        "fb-width-120"
+      ],
+      "xpath": "//*[@id=\"loading-content-pane\"]/div[1]/div[1]/div[8]/div[2]"
+    },
+    {
+      "text": "\n                        \n                        \n                      ",
+      "id": null,
+      "classList": [
+        "fb-file-tile"
+      ],
+      "xpath": "//*[@id=\"loading-content-pane\"]/div[1]/div[1]/div[9]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "fb-file-thumbnail"
+      ],
+      "xpath": "//*[@id=\"loading-content-pane\"]/div[1]/div[1]/div[9]/div[1]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "fb-rectangle-16",
+        "fb-width-120"
+      ],
+      "xpath": "//*[@id=\"loading-content-pane\"]/div[1]/div[1]/div[9]/div[2]"
+    },
+    {
+      "text": "\n                        \n                        \n                      ",
+      "id": null,
+      "classList": [
+        "fb-file-tile"
+      ],
+      "xpath": "//*[@id=\"loading-content-pane\"]/div[1]/div[1]/div[10]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "fb-file-thumbnail"
+      ],
+      "xpath": "//*[@id=\"loading-content-pane\"]/div[1]/div[1]/div[10]/div[1]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "fb-rectangle-16",
+        "fb-width-120"
+      ],
+      "xpath": "//*[@id=\"loading-content-pane\"]/div[1]/div[1]/div[10]/div[2]"
+    },
+    {
+      "text": "\n                        \n                        \n                      ",
+      "id": null,
+      "classList": [
+        "fb-file-tile"
+      ],
+      "xpath": "//*[@id=\"loading-content-pane\"]/div[1]/div[1]/div[11]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "fb-file-thumbnail"
+      ],
+      "xpath": "//*[@id=\"loading-content-pane\"]/div[1]/div[1]/div[11]/div[1]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "fb-rectangle-16",
+        "fb-width-120"
+      ],
+      "xpath": "//*[@id=\"loading-content-pane\"]/div[1]/div[1]/div[11]/div[2]"
+    },
+    {
+      "text": "\n                        \n                        \n                      ",
+      "id": null,
+      "classList": [
+        "fb-file-tile"
+      ],
+      "xpath": "//*[@id=\"loading-content-pane\"]/div[1]/div[1]/div[12]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "fb-file-thumbnail"
+      ],
+      "xpath": "//*[@id=\"loading-content-pane\"]/div[1]/div[1]/div[12]/div[1]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "fb-rectangle-16",
+        "fb-width-120"
+      ],
+      "xpath": "//*[@id=\"loading-content-pane\"]/div[1]/div[1]/div[12]/div[2]"
+    },
+    {
+      "text": "\n                        \n                        \n                      ",
+      "id": null,
+      "classList": [
+        "fb-file-tile"
+      ],
+      "xpath": "//*[@id=\"loading-content-pane\"]/div[1]/div[1]/div[13]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "fb-file-thumbnail"
+      ],
+      "xpath": "//*[@id=\"loading-content-pane\"]/div[1]/div[1]/div[13]/div[1]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "fb-rectangle-16",
+        "fb-width-120"
+      ],
+      "xpath": "//*[@id=\"loading-content-pane\"]/div[1]/div[1]/div[13]/div[2]"
+    },
+    {
+      "text": "\n                        \n                        \n                      ",
+      "id": null,
+      "classList": [
+        "fb-file-tile"
+      ],
+      "xpath": "//*[@id=\"loading-content-pane\"]/div[1]/div[1]/div[14]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "fb-file-thumbnail"
+      ],
+      "xpath": "//*[@id=\"loading-content-pane\"]/div[1]/div[1]/div[14]/div[1]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "fb-rectangle-16",
+        "fb-width-120"
+      ],
+      "xpath": "//*[@id=\"loading-content-pane\"]/div[1]/div[1]/div[14]/div[2]"
+    },
+    {
+      "text": "\n                        \n                        \n                      ",
+      "id": null,
+      "classList": [
+        "fb-file-tile"
+      ],
+      "xpath": "//*[@id=\"loading-content-pane\"]/div[1]/div[1]/div[15]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "fb-file-thumbnail"
+      ],
+      "xpath": "//*[@id=\"loading-content-pane\"]/div[1]/div[1]/div[15]/div[1]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "fb-rectangle-16",
+        "fb-width-120"
+      ],
+      "xpath": "//*[@id=\"loading-content-pane\"]/div[1]/div[1]/div[15]/div[2]"
+    },
+    {
+      "text": "\n                        \n                        \n                      ",
+      "id": null,
+      "classList": [
+        "fb-file-tile"
+      ],
+      "xpath": "//*[@id=\"loading-content-pane\"]/div[1]/div[1]/div[16]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "fb-file-thumbnail"
+      ],
+      "xpath": "//*[@id=\"loading-content-pane\"]/div[1]/div[1]/div[16]/div[1]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "fb-rectangle-16",
+        "fb-width-120"
+      ],
+      "xpath": "//*[@id=\"loading-content-pane\"]/div[1]/div[1]/div[16]/div[2]"
+    },
+    {
+      "text": "\n                        \n                        \n                      ",
+      "id": null,
+      "classList": [
+        "fb-file-tile"
+      ],
+      "xpath": "//*[@id=\"loading-content-pane\"]/div[1]/div[1]/div[17]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "fb-file-thumbnail"
+      ],
+      "xpath": "//*[@id=\"loading-content-pane\"]/div[1]/div[1]/div[17]/div[1]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "fb-rectangle-16",
+        "fb-width-120"
+      ],
+      "xpath": "//*[@id=\"loading-content-pane\"]/div[1]/div[1]/div[17]/div[2]"
+    },
+    {
+      "text": "\n                        \n                        \n                      ",
+      "id": null,
+      "classList": [
+        "fb-file-tile"
+      ],
+      "xpath": "//*[@id=\"loading-content-pane\"]/div[1]/div[1]/div[18]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "fb-file-thumbnail"
+      ],
+      "xpath": "//*[@id=\"loading-content-pane\"]/div[1]/div[1]/div[18]/div[1]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "fb-rectangle-16",
+        "fb-width-120"
+      ],
+      "xpath": "//*[@id=\"loading-content-pane\"]/div[1]/div[1]/div[18]/div[2]"
+    },
+    {
+      "text": "\n                        \n                        \n                      ",
+      "id": null,
+      "classList": [
+        "fb-file-tile"
+      ],
+      "xpath": "//*[@id=\"loading-content-pane\"]/div[1]/div[1]/div[19]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "fb-file-thumbnail"
+      ],
+      "xpath": "//*[@id=\"loading-content-pane\"]/div[1]/div[1]/div[19]/div[1]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "fb-rectangle-16",
+        "fb-width-120"
+      ],
+      "xpath": "//*[@id=\"loading-content-pane\"]/div[1]/div[1]/div[19]/div[2]"
+    },
+    {
+      "text": "\n                        \n                        \n                      ",
+      "id": null,
+      "classList": [
+        "fb-file-tile"
+      ],
+      "xpath": "//*[@id=\"loading-content-pane\"]/div[1]/div[1]/div[20]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "fb-file-thumbnail"
+      ],
+      "xpath": "//*[@id=\"loading-content-pane\"]/div[1]/div[1]/div[20]/div[1]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "fb-rectangle-16",
+        "fb-width-120"
+      ],
+      "xpath": "//*[@id=\"loading-content-pane\"]/div[1]/div[1]/div[20]/div[2]"
+    },
+    {
+      "text": "\n                        \n                        \n                      ",
+      "id": null,
+      "classList": [
+        "fb-file-tile"
+      ],
+      "xpath": "//*[@id=\"loading-content-pane\"]/div[1]/div[1]/div[21]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "fb-file-thumbnail"
+      ],
+      "xpath": "//*[@id=\"loading-content-pane\"]/div[1]/div[1]/div[21]/div[1]"
+    },
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "fb-rectangle-16",
+        "fb-width-120"
+      ],
+      "xpath": "//*[@id=\"loading-content-pane\"]/div[1]/div[1]/div[21]/div[2]"
+    }
+  ],
+  "a": [
+    {
+      "text": null,
+      "id": null,
+      "classList": [
+        "simple_page--logo--CciSc"
+      ],
+      "xpath": "//*[@id=\"react-page\"]/div[1]/div[1]/a[1]"
+    },
+    {
+      "text": "Figma TOS",
+      "id": null,
+      "classList": [
+        "sign_in_and_up--termsLink--lxirF"
+      ],
+      "xpath": "//*[@id=\"auth-view-page\"]/div[7]/p[1]/i18n-text[1]/a[1]"
+    },
+    {
+      "text": "Privacy Policy",
+      "id": null,
+      "classList": [
+        "sign_in_and_up--termsLink--lxirF"
+      ],
+      "xpath": "//*[@id=\"auth-view-page\"]/div[7]/p[1]/i18n-text[1]/a[2]"
+    },
+    {
+      "text": "Use single sign-on",
+      "id": null,
+      "classList": [
+        "basic_form--inlineLink---UZ4A",
+        "blue_link--blueLink--9rlnd",
+        "sign_in_and_up--signInWithSaml--JtavT"
+      ],
+      "xpath": "//*[@id=\"auth-view-page\"]/div[8]/div[1]/a[1]"
+    },
+    {
+      "text": "Log in",
+      "id": null,
+      "classList": [
+        "basic_form--inlineLink---UZ4A",
+        "blue_link--blueLink--9rlnd",
+        "sign_in_and_up--switchFormLink--D-MGz"
+      ],
+      "xpath": "//*[@id=\"auth-view-page\"]/div[8]/div[3]/div[1]/p[1]/a[1]"
+    }
+  ],
+  "p": [
+    {
+      "text": "Sign up for Figma",
+      "id": null,
+      "classList": [
+        "auth_form_2024_brand_updates--header--61wuB",
+        "auth_form_2024_brand_updates--headerBase--sNNh-",
+        "auth_form_2024_brand_updates--figmaSans--yn9ns",
+        "auth_2024_brand_updates--figmaSans--TbNxo"
+      ],
+      "xpath": "//*[@id=\"auth-view-page\"]/div[1]/p[1]"
+    },
+    {
+      "text": "or",
+      "id": null,
+      "classList": [
+        "sign_in_and_up_2024_brand_updates--orBlock--2jMvn"
+      ],
+      "xpath": "//*[@id=\"auth-view-page\"]/p[1]"
+    },
+    {
+      "text": "By clicking \"Create account\" or \"Continue with Google\", you agree to the Figma TOS and Privacy Policy.",
+      "id": null,
+      "classList": [
+        "sign_in_and_up_2024_brand_updates--termsFlattened--IhcJq",
+        "auth_view--footerText--M9q2W"
+      ],
+      "xpath": "//*[@id=\"auth-view-page\"]/div[7]/p[1]"
+    },
+    {
+      "text": "Already have an account?Log in",
+      "id": null,
+      "classList": [],
+      "xpath": "//*[@id=\"auth-view-page\"]/div[8]/div[3]/div[1]/p[1]"
+    }
+  ],
+  "button": [
+    {
+      "text": "Continue with Google",
+      "id": null,
+      "classList": [
+        "landing_form_2024_brand_updates--brandButton--0je-o",
+        "auth_view--brandButton--Le4wb",
+        "auth_view--brandButtonBase--RAO-j",
+        "auth_branding--brand--WeCuU",
+        "auth_branding--figmaSans--pBP44",
+        "auth_2024_brand_updates--figmaSans--TbNxo",
+        "auth_view--fullWidth--ffDfw",
+        "landing_form_2024_brand_updates--hollowButton--WGr1-",
+        "landing_form_2024_brand_updates--figmaSans--NJIR3"
+      ],
+      "xpath": "//*[@id=\"auth-view-page\"]/button[1]"
+    },
+    {
+      "text": "Create account",
+      "id": null,
+      "classList": [
+        "landing_form_2024_brand_updates--brandButton--0je-o",
+        "auth_view--brandButton--Le4wb",
+        "auth_view--brandButtonBase--RAO-j",
+        "auth_branding--brand--WeCuU",
+        "auth_branding--figmaSans--pBP44",
+        "auth_2024_brand_updates--figmaSans--TbNxo",
+        "auth_view--fullWidth--ffDfw",
+        "landing_form_2024_brand_updates--brandButtonHoverIconEffects--Ca32N",
+        "landing_form_2024_brand_updates--figmaSans--NJIR3",
+        "sign_in_and_up--wideButton--t-8Hr",
+        "auth_view--wideButton--Db9su"
+      ],
+      "xpath": "//*[@id=\"auth-view-page\"]/button[2]"
+    }
+  ],
+  "input": [
+    {
+      "text": null,
+      "id": "email",
+      "classList": [
+        "branded_inputs_2024_brand_update--input--PFtu-",
+        "auth_2024_brand_updates--figmaSans--TbNxo",
+        "lazy_input--lazyInput--1mJeW"
+      ],
+      "xpath": "//*[@id=\"email\"]"
+    },
+    {
+      "text": null,
+      "id": "current-password",
+      "classList": [
+        "branded_inputs_2024_brand_update--input--PFtu-",
+        "auth_2024_brand_updates--figmaSans--TbNxo",
+        "lazy_input--lazyInput--1mJeW"
+      ],
+      "xpath": "//*[@id=\"current-password\"]"
+    }
+  ]
+}
